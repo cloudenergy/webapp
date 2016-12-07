@@ -1,0 +1,15 @@
+{
+  "name": "pingpp-js",
+  "homepage": "https://github.com/PingPlusPlus/pingpp-js",
+  "version": "2.1.5",
+  "_release": "2.1.5",
+  "_resolution": {
+    "type": "version",
+    "tag": "2.1.5",
+    "commit": "be8ff5a0ab024a972c50f5751cf30bc71688128c"
+  },
+  "_source": "https://github.com/PingPlusPlus/pingpp-js.git",
+  "_target": "^2.1.5",
+  "_originalSource": "https://github.com/PingPlusPlus/pingpp-js.git",
+  "_direct": true
+}
