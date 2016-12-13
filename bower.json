@@ -1,6 +1,0 @@
-{
-  "name": "wechat-app",
-  "dependencies": {
-    "pingpp-html5-2.0.9": "pingpp-html5#^2.0.9"
-  }
-}
