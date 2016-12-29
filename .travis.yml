@@ -1,0 +1,15 @@
+language: node_js
+branches:
+  only: master
+node_js: '4.1'
+sudo: false
+before_install:
+- openssl aes-256-cbc -K $encrypted_eba2daab0f3c_key -iv $encrypted_eba2daab0f3c_iv
+  -in id_rsa.enc -out deployKey -d
+- echo -e "Host "$DEPLOY_HOST"\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
+after_success:
+- mv deployKey ~/.ssh/id_rsa
+- chmod 600 ~/.ssh/id_rsa
+- git remote add deploy ssh://$DEPLOY_USER@$DEPLOY_HOST:$DEPLOY_PORT$DEPLOY_PATH/production/webapp.git
+- git push deploy
+script: npm test
