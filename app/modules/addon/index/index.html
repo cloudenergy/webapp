@@ -27,8 +27,8 @@
                 <span class="font-size-12 mt2" md-colors="::{color:item.bgColor}" ng-bind="item.label" ng-if="item.state"></span>
             </div>
         </div>
-        <div class="addon-index-apps addon-index-apps-third mt10 pl10 pr10 pb10" flex layout layout-wrap layout-align="start start">
-            <div class="pt10" flex="25" layout="column" layout-align="center center" ng-repeat="item in $ctrl.template.third|orderBy:'sort' track by $index"
+        <div class="addon-index-apps addon-index-apps-third mt10 pl10 pr10" flex layout layout-wrap layout-align="start start">
+            <div class="pt5 pb10" flex="25" layout="column" layout-align="center center" ng-repeat="item in $ctrl.template.third|orderBy:'sort' track by $index"
                 ng-class="{bb0:($index+1)>$ctrl.template.third.length-($ctrl.template.third.length%4||4)}">
                 <a layout layout-align="center center" ui-sref="{{item.state}}" ng-if="item.state">
                     <i class="em-32" ng-class="item.icon" md-colors="::{color:item.iconColor}"></i>
