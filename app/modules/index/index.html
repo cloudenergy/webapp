@@ -1,4 +1,4 @@
-<ion-view view-title="租户通" hide-nav-bar="{{$root.User.client==='WECHAT'}}"><ion-content scrollbar-x="false" class="module-index stable-bg"><ion-refresher class="positive" pulling-icon="ion-ios-arrow-down positive" spinner="ripple" on-refresh="$ctrl.refresh(false)"></ion-refresher><ng-include src="$ctrl.template.url" flex layout></ng-include><script type="text/ng-template" id="index-tmpl-default.html"><div class="index-weather">
+<ion-view view-title="租户通" hide-nav-bar="{{$root.User.client==='WECHAT'}}"><ion-content scrollbar-x="false" class="module-index stable-bg has-tabs"><ion-refresher class="positive" pulling-icon="ion-ios-arrow-down positive" spinner="ripple" on-refresh="$ctrl.refresh(false)"></ion-refresher><ng-include src="$ctrl.template.url" flex layout></ng-include><script type="text/ng-template" id="index-tmpl-default.html"><div class="index-weather">
                 <iframe id="index-tmpl-default-iframe" class="invisible" frameborder="0" scrolling="no" width="100%" height="92px" allowTransparency="true"></iframe>
             </div>
             <div class="row row-center row-no-padding index-line-horizontal">
@@ -35,4 +35,4 @@
                     </a>
                     <div ng-style="::{color:item.iconColor}" ng-bind="item.label" ng-if="item.label"></div>
                 </div>
-            </div></script></ion-content></ion-view>
+            </div></script></ion-content><ion-tabs class="tabs-icon-top tabs-background-stable tabs-color-active-positive" delegate-handle="tabs"><ion-tab title="租户通" icon="icon-app icon-index" ui-sref="app.index"></ion-tab><ion-tab title="控制" icon="icon-app icon-control" ui-sref="app.device"></ion-tab><ion-tab title="充值" icon="icon-app icon-recharge" ui-sref="app.recharge"></ion-tab><ion-tab title="个人" icon="icon-app icon-my" ui-sref="app.account"></ion-tab></ion-tabs></ion-view>
