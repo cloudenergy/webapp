@@ -21,10 +21,7 @@
             </div>
             <div class="row row-wrap row-center row-no-padding index-apps-third">
                 <div class="col col-25 text-center" ng-repeat="item in $ctrl.template.third|orderBy:'sort' track by $index" ng-style="{borderBottomWidth:($index+1)>($ctrl.template.third.length-($ctrl.template.third.length%4||4))?0:'1px'}">
-                    <a class="button" ui-sref="{{item.state}}" ng-if="item.state">
-                        <i ng-class="item.icon" ng-style="::{color:item.iconColor}"></i>
-                    </a>
-                    <a class="button" ng-href="{{item.target}}" ng-if="!item.state&&item.target">
+                    <a class="button" ui-sref="{{item.state||'app.iframe'}}({target:'{{item.target}}'})">
                         <i ng-class="item.icon" ng-style="::{color:item.iconColor}"></i>
                     </a>
                     <div ng-style="::{color:item.iconColor}" ng-bind="item.label" ng-if="item.label"></div>
