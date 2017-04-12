@@ -1,13 +1,13 @@
-<ion-view view-title="租户通"><ion-content scrollbar-x="false" class="module-index stable-bg has-tabs"><ion-refresher class="positive" pulling-icon="ion-ios-arrow-down positive" spinner="ripple" on-refresh="$ctrl.refresh(false)"></ion-refresher><ng-include src="$ctrl.template.url" flex layout></ng-include><script type="text/ng-template" id="index-tmpl-default.html"><div class="index-weather">
+<ion-view view-title="租户通" hide-nav-bar="true"><ion-content scrollbar-x="false" class="module-index stable-bg has-tabs"><ion-refresher class="positive" pulling-icon="ion-ios-arrow-down positive" spinner="ripple" on-refresh="$ctrl.refresh(false)"></ion-refresher><ng-include src="$ctrl.template.url" flex layout></ng-include><script type="text/ng-template" id="index-tmpl-default.html"><div class="index-weather">
                 <iframe id="index-tmpl-default-iframe" class="invisible" frameborder="0" scrolling="no" width="100%" height="92px" allowTransparency="true"></iframe>
             </div>
             <div class="row row-center row-no-padding index-line-horizontal">
                 <div class="col text-center index-line-vertical">
-                    <h3 class="padding-top calm" ng-bind="$ctrl.cash"></h3>
+                    <h3 class="padding-top calm" ui-sref="app.recharge" ng-bind="$ctrl.cash"></h3>
                     <p>账户余额 <small>(元)</small></p>
                 </div>
                 <div class="col text-center">
-                    <h3 class="padding-top assertive" ng-bind="$ctrl.monthlyCost"></h3>
+                    <h3 class="padding-top assertive" ui-sref="app.fee" ng-bind="$ctrl.monthlyCost"></h3>
                     <p>本月已用 <small>(元)</small></p>
                 </div>
             </div>
