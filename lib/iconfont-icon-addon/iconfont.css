@@ -1,0 +1,57 @@
+
+@font-face {font-family: "icon-addon";
+  src: url('iconfont.eot?t=1494499769954'); /* IE9*/
+  src: url('iconfont.eot?t=1494499769954#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('iconfont.woff?t=1494499769954') format('woff'), /* chrome, firefox */
+  url('iconfont.ttf?t=1494499769954') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('iconfont.svg?t=1494499769954#icon-addon') format('svg'); /* iOS 4.1- */
+}
+
+.icon-addon {
+  font-family:"icon-addon" !important;
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.addon-cityservice:before { content: "\e63a"; }
+
+.addon-my:before { content: "\e609"; }
+
+.addon-repair:before { content: "\e62d"; }
+
+.addon-jiudian:before { content: "\e635"; }
+
+.addon-huoche:before { content: "\e629"; }
+
+.addon-order:before { content: "\e670"; }
+
+.addon-bottled-water:before { content: "\e606"; }
+
+.addon-didichuhang:before { content: "\e610"; }
+
+.addon-recharge:before { content: "\e660"; }
+
+.addon-flower:before { content: "\e8ad"; }
+
+.addon-medicine-chest:before { content: "\e8ae"; }
+
+.addon-catering:before { content: "\e8b0"; }
+
+.addon-bussiness:before { content: "\e8b1"; }
+
+.addon-tele:before { content: "\e8b2"; }
+
+.addon-fitment:before { content: "\e8b3"; }
+
+.addon-clean-keeping:before { content: "\e8b4"; }
+
+.addon-express:before { content: "\e8b6"; }
+
+.addon-rent:before { content: "\e8b7"; }
+
+.addon-market:before { content: "\e8b8"; }
+
+.addon-control:before { content: "\e8b9"; }
+
