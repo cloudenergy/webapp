@@ -1,12 +1,9 @@
 <ion-view><ion-nav-title>{{$root.User.data.department}}</ion-nav-title><ion-content scrollbar-x="false" class="module-index stable-bg has-tabs"><ion-refresher class="positive" pulling-icon="ion-ios-arrow-down positive" spinner="ripple" on-refresh="$ctrl.refresh(false)"></ion-refresher><ng-include src="$ctrl.template.url" flex layout></ng-include><script type="text/ng-template" id="index-tmpl-default.html"><ion-slides options="$ctrl.options" slider="$ctrl.slider" ng-style="{height:$ctrl.sliderHeight+'px'}">
-                <ion-slide-page>
-                    <img src="app/modules/index/img/slide1.jpg?rev=4d9b06b50f" />
-                </ion-slide-page>
-                <ion-slide-page>
-                    <img src="app/modules/index/img/slide2.jpg?rev=d9e054ed97" />
-                </ion-slide-page>
-                <ion-slide-page>
-                    <img src="app/modules/index/img/slide3.jpg?rev=4e705d6caf" />
+                <ion-slide-page ng-repeat="item in $ctrl.template.slide|orderBy:'sort' track by $index">
+                    <a ng-if="item.target" ui-sref="app.iframe({title:'{{item.title}}',target:'{{item.target}}'})">
+                        <img ng-style="{width:'100%'}" ng-src="{{'http://7xruep.com1.z0.glb.clouddn.com/'+item.key+'?imageView2/1/w/750/h/360/interlace/1/q/80|imageslim'}}" />
+                    </a>
+                    <img ng-style="{width:'100%'}" ng-if="!item.target" ng-src="{{'http://7xruep.com1.z0.glb.clouddn.com/'+item.key+'?imageView2/1/w/750/h/360/interlace/1/q/80|imageslim'}}" />
                 </ion-slide-page>
             </ion-slides>
             <div class="row row-center row-no-padding index-line-horizontal">
