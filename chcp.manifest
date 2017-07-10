@@ -4,20 +4,24 @@
     "hash": "a57cc0b778c999d2b73f283726126c74"
   },
   {
-    "file": "app/app-3949ecce3c.js",
-    "hash": "3949ecce3c28e5b04454512ecaeb564b"
-  },
-  {
-    "file": "app/app-6f592fbdb9.css",
-    "hash": "6f592fbdb9608f2414ee0f8094c48082"
-  },
-  {
     "file": "app/app.min.css",
     "hash": "b5e158d180eda78b91576a8f05b58191"
   },
   {
     "file": "app/app.min.js",
     "hash": "365a81d5de8f85528b6a87933d40900b"
+  },
+  {
+    "file": "app/bundle-app.css",
+    "hash": "6f592fbdb9608f2414ee0f8094c48082"
+  },
+  {
+    "file": "app/bundle-app.js",
+    "hash": "6572213a9cd5895c20d99b196bd88617"
+  },
+  {
+    "file": "app/bundle-libs.js",
+    "hash": "c0b2b9e808c36491e32133712fd8b233"
   },
   {
     "file": "app/common/const.min.js",
@@ -54,10 +58,6 @@
   {
     "file": "app/ionic.min.css",
     "hash": "a443d2593741c9c094c8374fc39d1963"
-  },
-  {
-    "file": "app/libs-c0b2b9e808.js",
-    "hash": "c0b2b9e808c36491e32133712fd8b233"
   },
   {
     "file": "app/modules/account/account.html",
@@ -145,7 +145,7 @@
   },
   {
     "file": "app/modules/index/index.html",
-    "hash": "b2929f49f2c9d5bc1144f2708e9f92f5"
+    "hash": "16f6746e49d15b4a7d8bc6a2cbb3f2f9"
   },
   {
     "file": "app/modules/index/index.min.css",
@@ -249,7 +249,7 @@
   },
   {
     "file": "app/router.min.js",
-    "hash": "892d764a34049caa34f3c836e796f117"
+    "hash": "4cfd1a89760bbf34ebd645afdd22615c"
   },
   {
     "file": "app/services/jpush.min.js",
@@ -277,7 +277,7 @@
   },
   {
     "file": "index.html",
-    "hash": "e3b770406dfc63eede5d668664157242"
+    "hash": "abceb296ea990ea0103439f2fede4476"
   },
   {
     "file": "lib/iconfont-icon-addon/demo_fontclass.html",
