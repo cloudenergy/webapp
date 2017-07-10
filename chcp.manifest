@@ -4,8 +4,8 @@
     "hash": "a57cc0b778c999d2b73f283726126c74"
   },
   {
-    "file": "app/app-3949ecce3c.js",
-    "hash": "3949ecce3c28e5b04454512ecaeb564b"
+    "file": "app/app-51f2180cb5.js",
+    "hash": "51f2180cb5e7bdbe8206adf0f49783b9"
   },
   {
     "file": "app/app-6f592fbdb9.css",
@@ -145,7 +145,7 @@
   },
   {
     "file": "app/modules/index/index.html",
-    "hash": "b2929f49f2c9d5bc1144f2708e9f92f5"
+    "hash": "a3bd7348d181c1971facdc194ebd687d"
   },
   {
     "file": "app/modules/index/index.min.css",
@@ -249,7 +249,7 @@
   },
   {
     "file": "app/router.min.js",
-    "hash": "892d764a34049caa34f3c836e796f117"
+    "hash": "37073661d58b0139bc1015ae7795cb84"
   },
   {
     "file": "app/services/jpush.min.js",
@@ -277,7 +277,7 @@
   },
   {
     "file": "index.html",
-    "hash": "e3b770406dfc63eede5d668664157242"
+    "hash": "f9354155e81cd493513af42aaeb5d6f5"
   },
   {
     "file": "lib/iconfont-icon-addon/demo_fontclass.html",
