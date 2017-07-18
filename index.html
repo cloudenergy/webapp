@@ -8,7 +8,7 @@
     <meta name="format-detection" content="telephone=no">
     <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
     <script>
-        window.APIORIGIN = 'https://api.cloudenergy.me';
+        window.APIORIGIN = 'https://preapi.cloudenergy.me';
         window.isWECHAT = /micromessenger/.test(window.navigator.userAgent.toLowerCase());
         window.isPRODUCTION = /cloudenergy\.me/.test(location.host);
         !window.isPRODUCTION && document.getElementsByTagName('head')[0].removeChild(document.getElementsByTagName('base')[0]);
@@ -18,7 +18,7 @@
     <title></title>
 </head>
 
-<body>
+<body ng-app="app">
     <ion-nav-view></ion-nav-view>
     <script src="app/bundle-libs.js?rev=c0b2b9e808"></script>
     <script>
@@ -26,7 +26,7 @@
         window.isIOS = window.ionic.Platform.isIOS();
         !window.isPRODUCTION && document.write('<script src="cordova.js"><\/script>');
     </script>
-    <script src="app/bundle-app.js?rev=50d06c4ff5"></script>
+    <script src="app/bundle-app.js?rev=07e96f84d2"></script>
 </body>
 
 </html>
