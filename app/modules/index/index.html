@@ -6,29 +6,36 @@
                     <img ng-style="{width:'100%'}" ng-if="!item.target" ng-src="{{'http://7xruep.com1.z0.glb.clouddn.com/'+item.key+'?imageView2/1/w/750/h/360/interlace/1/q/80|imageslim'}}" />
                 </ion-slide-page>
             </ion-slides>
-            <div class="row row-center row-no-padding index-line-horizontal">
-                <div class="col text-center index-line-vertical">
-                    <h3 class="padding-top" ng-class="{calm:$ctrl.cash>=0,assertive:$ctrl.cash<0}" ui-sref="app.recharge" ng-bind="$ctrl.cash"></h3>
+            <div class="row row-center row-no-padding index-line-detail">
+                <div class="col text-center">
+                    <h3 class="padding-top padding-bottom" ng-class="{calm:$ctrl.cash>=0,assertive:$ctrl.cash<0}" ui-sref="app.recharge" ng-bind="$ctrl.cash | number: 2"></h3>
                     <p>账户余额 <small>(元)</small></p>
                 </div>
                 <div class="col text-center">
-                    <h3 class="padding-top" ng-class="{calm:$ctrl.monthlyCost>=0,assertive:$ctrl.monthlyCost<0}" ui-sref="app.fee" ng-bind="$ctrl.monthlyCost"></h3>
+                    <h3 class="padding-top padding-bottom" ng-class="{calm:$ctrl.monthlyCost>=0,assertive:$ctrl.monthlyCost<0}" ui-sref="app.fee" ng-bind="$ctrl.monthlyCost | number: 2"></h3>
                     <p>本月已用 <small>(元)</small></p>
                 </div>
             </div>
             <div class="row row-wrap row-center row-no-padding index-apps">
                 <div class="col col-25 text-center" ng-repeat="item in $ctrl.template.basic|orderBy:'sort' track by $index">
-                    <a class="button button-clear" ng-if="item.state" ui-sref="{{item.state}}">
-                        <i ng-class="item.icon" ng-style="::{color:item.iconColor}"></i>
+                    <a class="button button-clear" ng-class="{'unread-tips':item.state==='app.fee'}" ng-if="item.state" ui-sref="{{item.state}}">
+                        <i class="calm" ng-class="item.icon"></i>
+                        <i class="ion-record assertive r10 hide" ng-if="item.state==='app.fee'"></i>
                     </a>
-                    <div ng-bind="item.label" ng-if="item.state"></div>
+                    <div class="calm" ng-bind="item.label" ng-if="item.state"></div>
                 </div>
             </div>
             <div class="row row-wrap row-center row-no-padding index-apps-third">
-                <div class="col col-25 text-center" ng-repeat="item in $ctrl.template.third|orderBy:'sort' track by $index" ng-style="{borderBottomWidth:($index+1)>($ctrl.template.third.length-($ctrl.template.third.length%4||4))?0:'1px'}">
+                <div class="col col-25 text-center" ng-repeat="item in $ctrl.template.third|orderBy:'sort' track by $index" ng-if="$ctrl.expand===-1?true:$index<$ctrl.expand">
                     <a class="button" ui-sref="{{item.state||'app.iframe'}}({title:'{{item.label}}',target:'{{item.target}}'})">
-                        <i ng-class="item.icon" ng-style="::{color:item.iconColor}"></i>
+                        <i ng-class="item.icon"></i>
                     </a>
                     <div ng-bind="item.label" ng-if="item.label"></div>
                 </div>
-            </div></script></ion-content><ion-tabs class="tabs-icon-top tabs-background-stable tabs-color-active-positive" delegate-handle="tabs"><ion-tab title="首页" icon="icon-app icon-index" ui-sref="app.index"></ion-tab><ion-tab title="仪表" icon="icon-app icon-energy" ui-sref="app.device"></ion-tab><ion-tab title="充值" icon="icon-app icon-recharge" ui-sref="app.recharge"></ion-tab><ion-tab title="个人" icon="icon-app icon-my" ui-sref="app.account"></ion-tab></ion-tabs></ion-view>
+                <div class="col col-25 text-center show-more" ng-if="$ctrl.expand!==-1">
+                    <a class="button" ng-click="$ctrl.showMore()">
+                        <i class="icon-app icon-more"></i>
+                    </a>
+                    <div>更多</div>
+                </div>
+            </div></script></ion-content><ion-tabs class="tabs-icon-top tabs-background-stable tabs-color-active-positive" delegate-handle="tabs"><ion-tab title="首页" icon="icon-app icon-index" ui-sref="app.index"></ion-tab><ion-tab title="仪表" icon="icon-app icon-energy" ui-sref="app.device"></ion-tab><ion-tab title="充值" icon="icon-app icon-recharge" ui-sref="app.recharge"></ion-tab><ion-tab title="我的" icon="icon-app icon-my" ui-sref="app.account"></ion-tab></ion-tabs></ion-view>

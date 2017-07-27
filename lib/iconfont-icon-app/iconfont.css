@@ -1,10 +1,10 @@
 
 @font-face {font-family: "icon-app";
-  src: url('iconfont.eot?t=1497592559189'); /* IE9*/
-  src: url('iconfont.eot?t=1497592559189#iefix') format('embedded-opentype'), /* IE6-IE8 */
-  url('iconfont.woff?t=1497592559189') format('woff'), /* chrome, firefox */
-  url('iconfont.ttf?t=1497592559189') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
-  url('iconfont.svg?t=1497592559189#icon-app') format('svg'); /* iOS 4.1- */
+  src: url('iconfont.eot?t=1500966362423'); /* IE9*/
+  src: url('iconfont.eot?t=1500966362423#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('iconfont.woff?t=1500966362423') format('woff'), /* chrome, firefox */
+  url('iconfont.ttf?t=1500966362423') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('iconfont.svg?t=1500966362423#icon-app') format('svg'); /* iOS 4.1- */
 }
 
 .icon-app {
@@ -55,8 +55,6 @@
 
 .icon-air-conditioning:before { content: "\e621"; }
 
-.icon-control:before { content: "\e8b9"; }
-
 .icon-wechat:before { content: "\e60a"; }
 
 .icon-electricity:before { content: "\e643"; }
@@ -74,4 +72,8 @@
 .icon-parking:before { content: "\e8be"; }
 
 .icon-fee:before { content: "\e8bf"; }
+
+.icon-more:before { content: "\e6ad"; }
+
+.icon-record:before { content: "\e601"; }
 
