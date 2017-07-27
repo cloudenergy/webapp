@@ -1,11 +1,11 @@
 [
   {
     "file": "app/api.min.js",
-    "hash": "a57cc0b778c999d2b73f283726126c74"
+    "hash": "ed87f39cebda02ee9ce6a959a801c9f2"
   },
   {
     "file": "app/app.min.css",
-    "hash": "e72824e1465b6662bc6db60e8f01a567"
+    "hash": "da8eba13341a80648baeb04cfc81feab"
   },
   {
     "file": "app/app.min.js",
@@ -13,11 +13,11 @@
   },
   {
     "file": "app/bundle-app.css",
-    "hash": "f1890cc73da77885c86133395665de56"
+    "hash": "e2b381e72f06b4580148658d00007722"
   },
   {
     "file": "app/bundle-app.js",
-    "hash": "76fbcd14833ecf9508255f892fe30ca5"
+    "hash": "86285f246dfce5b061c67cf3a7d5a0be"
   },
   {
     "file": "app/bundle-libs.js",
@@ -61,19 +61,23 @@
   },
   {
     "file": "app/modules/account/account.html",
-    "hash": "fd07c2685bf32756a40f093de19f0b31"
+    "hash": "1cb2fadb54b617052d8a7ca05d9b5489"
+  },
+  {
+    "file": "app/modules/account/account.min.css",
+    "hash": "92fa4ca21cf2e3986a4403ab597c0fd2"
   },
   {
     "file": "app/modules/account/account.min.js",
-    "hash": "92cfc3066d252779625edbf7c31ffb82"
+    "hash": "2668d83a64117238fd116e1b5d953980"
   },
   {
     "file": "app/modules/account/edit.html",
-    "hash": "e6b469ed0af8b36d4389d24a3027e5ff"
+    "hash": "e2adecd322fb9ae9a2e1a5e30dbae8b4"
   },
   {
     "file": "app/modules/account/password.html",
-    "hash": "45fafce73f7cfda878322a7ef3f6f969"
+    "hash": "f04807479174196343797dfcdc60be97"
   },
   {
     "file": "app/modules/bind/bind.html",
@@ -89,7 +93,7 @@
   },
   {
     "file": "app/modules/device/device.html",
-    "hash": "225e57170b4b463e6bb82ff3c350c893"
+    "hash": "0e68d6d0c5c0aa26b13783205b4ac7fc"
   },
   {
     "file": "app/modules/device/device.min.css",
@@ -145,7 +149,7 @@
   },
   {
     "file": "app/modules/index/index.html",
-    "hash": "5d9e4e53b3bfeb8cc1d801f6852b0bde"
+    "hash": "cc6d90c783f75dd95062c97d80448cb4"
   },
   {
     "file": "app/modules/index/index.min.css",
@@ -197,7 +201,7 @@
   },
   {
     "file": "app/modules/recharge/recharge.html",
-    "hash": "cb7b655edc4e702bb8dc4fe1a3e3eb46"
+    "hash": "69cd50cbdc85b0263d083051718e7873"
   },
   {
     "file": "app/modules/recharge/recharge.min.css",
@@ -249,7 +253,11 @@
   },
   {
     "file": "app/router.min.js",
-    "hash": "2756cc96238898a618530bc973ea9eaf"
+    "hash": "11af366119434bfd2e76c8f2ee45a806"
+  },
+  {
+    "file": "app/services/fundebug.min.js",
+    "hash": "d45b9193d9744f0f08226f9ba1a2bc87"
   },
   {
     "file": "app/services/jpush.min.js",
@@ -277,7 +285,7 @@
   },
   {
     "file": "index.html",
-    "hash": "8835020af49d34bf9e51311650e31379"
+    "hash": "1255c0de5643dd5ca3f5477ca8dec9ed"
   },
   {
     "file": "lib/iconfont-icon-addon/demo_fontclass.html",
