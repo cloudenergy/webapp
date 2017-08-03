@@ -17,7 +17,7 @@
   },
   {
     "file": "app/bundle-app.js",
-    "hash": "47f176a192c52ca5a7deb572f5a2532e"
+    "hash": "c78d72af728f6f86cd51d1588896def9"
   },
   {
     "file": "app/bundle-libs.js",
@@ -257,7 +257,7 @@
   },
   {
     "file": "app/services/chcp.min.js",
-    "hash": "2a9afe66fd24ed6ea360887c5191b583"
+    "hash": "83aafe39746a3246cc9e8174b37ffbc5"
   },
   {
     "file": "app/services/fundebug.min.js",
@@ -289,7 +289,7 @@
   },
   {
     "file": "index.html",
-    "hash": "45bfec4c7415a1776f8ccbdbe114c588"
+    "hash": "c9389901f81a08d45c97dcb348fa2da5"
   },
   {
     "file": "lib/iconfont-icon-addon/demo_fontclass.html",
