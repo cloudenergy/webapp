@@ -17,7 +17,7 @@
   },
   {
     "file": "app/bundle-app.js",
-    "hash": "c78d72af728f6f86cd51d1588896def9"
+    "hash": "d932c1eea8edb13daa5465f71f8a4e2e"
   },
   {
     "file": "app/bundle-libs.js",
@@ -197,7 +197,7 @@
   },
   {
     "file": "app/modules/recharge/log.min.js",
-    "hash": "7ad97c82b4d543296b0809f18627cd99"
+    "hash": "0adcb12836253e03a4bd45be6abe1d2f"
   },
   {
     "file": "app/modules/recharge/recharge.html",
@@ -228,16 +228,36 @@
     "hash": "c058f4e27ae15eb89a8ce5f9df2ab2b0"
   },
   {
-    "file": "app/modules/welcome/img/slide1.jpg",
-    "hash": "8c67076f11cc222514a08099d12ccabc"
+    "file": "app/modules/welcome/img/1.jpg",
+    "hash": "f4c1838d6fcbdc1572b6249accb144a1"
   },
   {
-    "file": "app/modules/welcome/img/slide2.jpg",
-    "hash": "d984d6466bb9a8739c05457ae8e07ec5"
+    "file": "app/modules/welcome/img/2.jpg",
+    "hash": "fcf50ee507ea0b9f3af3d162e406b5a3"
   },
   {
-    "file": "app/modules/welcome/img/slide3.jpg",
-    "hash": "15e30424411053f25eb53482e76aa2f0"
+    "file": "app/modules/welcome/img/3.jpg",
+    "hash": "0171183046f74b74f0dd9c81c8ec57fe"
+  },
+  {
+    "file": "app/modules/welcome/img/4.jpg",
+    "hash": "c2ebd99577a231c7a7629865302a9ae8"
+  },
+  {
+    "file": "app/modules/welcome/img/ipad/1.jpg",
+    "hash": "0257bf0935390b5ee56b6277bbbeb992"
+  },
+  {
+    "file": "app/modules/welcome/img/ipad/2.jpg",
+    "hash": "663581b3c6593bdb54233a2a7311a2d0"
+  },
+  {
+    "file": "app/modules/welcome/img/ipad/3.jpg",
+    "hash": "481c3645466b9bad45ad1efdcde9a73a"
+  },
+  {
+    "file": "app/modules/welcome/img/ipad/4.jpg",
+    "hash": "ff806c0c3597fb6503aa4d158b7b77d9"
   },
   {
     "file": "app/modules/welcome/img/start.png",
@@ -245,19 +265,23 @@
   },
   {
     "file": "app/modules/welcome/welcome.html",
-    "hash": "44e96150babf1cb6252b0589c542c70e"
+    "hash": "d488b919d0a93a047ff2cb456c64d0dc"
+  },
+  {
+    "file": "app/modules/welcome/welcome.min.css",
+    "hash": "1001d05198fcbf76847f81cdc7e12b37"
   },
   {
     "file": "app/modules/welcome/welcome.min.js",
-    "hash": "e54d67d5725c39dfda13702cca8a7f0d"
+    "hash": "c28910cae2a623e22bf9e2c681f4833d"
   },
   {
     "file": "app/router.min.js",
-    "hash": "808fb94f10b6eef993857fafd0d5d280"
+    "hash": "e0389aa36eb0474556c2090bbc152c1d"
   },
   {
     "file": "app/services/chcp.min.js",
-    "hash": "83aafe39746a3246cc9e8174b37ffbc5"
+    "hash": "dadd52cd650e53618171af53f0343db1"
   },
   {
     "file": "app/services/fundebug.min.js",
@@ -265,7 +289,7 @@
   },
   {
     "file": "app/services/jpush.min.js",
-    "hash": "1bf085785c02d26656abefe6ffac2636"
+    "hash": "e2a1a148ca05cf053399d2a24a49000e"
   },
   {
     "file": "app/services/storage.min.js",
@@ -273,7 +297,7 @@
   },
   {
     "file": "app/services/user.min.js",
-    "hash": "80139ae71d9498eb1fc3aaeeb5269fc9"
+    "hash": "efe132e19501569b8d891efa78a1ba6a"
   },
   {
     "file": "app/tabs.html",
@@ -289,7 +313,7 @@
   },
   {
     "file": "index.html",
-    "hash": "c9389901f81a08d45c97dcb348fa2da5"
+    "hash": "0dd7444721d4abf55e3ce59604add588"
   },
   {
     "file": "lib/iconfont-icon-addon/demo_fontclass.html",
