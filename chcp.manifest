@@ -17,7 +17,7 @@
   },
   {
     "file": "app/bundle-app.js",
-    "hash": "3c8d93f464a6d44c0b9890e4e557648c"
+    "hash": "204c05fcafc4dd3e9f445e1cb540b86e"
   },
   {
     "file": "app/bundle-libs.js",
@@ -229,15 +229,19 @@
   },
   {
     "file": "app/modules/welcome/img/slide1.jpg",
-    "hash": "8c67076f11cc222514a08099d12ccabc"
+    "hash": "43e73b80a93812f778222ee0da9fd1f6"
   },
   {
     "file": "app/modules/welcome/img/slide2.jpg",
-    "hash": "d984d6466bb9a8739c05457ae8e07ec5"
+    "hash": "a29362563a06b3e90d23e6da2b68ce29"
   },
   {
     "file": "app/modules/welcome/img/slide3.jpg",
-    "hash": "15e30424411053f25eb53482e76aa2f0"
+    "hash": "20b7bb9588e4512ac55c6216997ed431"
+  },
+  {
+    "file": "app/modules/welcome/img/slide4.jpg",
+    "hash": "00e5b66eb5b26258abfb9f76183b8f40"
   },
   {
     "file": "app/modules/welcome/img/start.png",
@@ -245,7 +249,7 @@
   },
   {
     "file": "app/modules/welcome/welcome.html",
-    "hash": "44e96150babf1cb6252b0589c542c70e"
+    "hash": "07764dff0d216788c79be08a28496744"
   },
   {
     "file": "app/modules/welcome/welcome.min.js",
@@ -253,7 +257,7 @@
   },
   {
     "file": "app/router.min.js",
-    "hash": "8fae4bf9b6ff2820f63706c0d32f426a"
+    "hash": "02d92725aa180d2609e10b9ca3f7052e"
   },
   {
     "file": "app/services/chcp.min.js",
@@ -265,7 +269,7 @@
   },
   {
     "file": "app/services/jpush.min.js",
-    "hash": "f119d4f1a84fa0714b7c31e57125ff95"
+    "hash": "e2a1a148ca05cf053399d2a24a49000e"
   },
   {
     "file": "app/services/storage.min.js",
@@ -289,7 +293,7 @@
   },
   {
     "file": "index.html",
-    "hash": "b44a5e3e9f878beecfdfbde78c1dc1db"
+    "hash": "e7e34f897d1e1e5eaba539bae0255dfa"
   },
   {
     "file": "lib/iconfont-icon-addon/demo_fontclass.html",
