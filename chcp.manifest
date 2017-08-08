@@ -17,7 +17,7 @@
   },
   {
     "file": "app/bundle-app.js",
-    "hash": "204c05fcafc4dd3e9f445e1cb540b86e"
+    "hash": "d932c1eea8edb13daa5465f71f8a4e2e"
   },
   {
     "file": "app/bundle-libs.js",
@@ -228,20 +228,36 @@
     "hash": "c058f4e27ae15eb89a8ce5f9df2ab2b0"
   },
   {
-    "file": "app/modules/welcome/img/slide1.jpg",
-    "hash": "43e73b80a93812f778222ee0da9fd1f6"
+    "file": "app/modules/welcome/img/1.jpg",
+    "hash": "f4c1838d6fcbdc1572b6249accb144a1"
   },
   {
-    "file": "app/modules/welcome/img/slide2.jpg",
-    "hash": "a29362563a06b3e90d23e6da2b68ce29"
+    "file": "app/modules/welcome/img/2.jpg",
+    "hash": "fcf50ee507ea0b9f3af3d162e406b5a3"
   },
   {
-    "file": "app/modules/welcome/img/slide3.jpg",
-    "hash": "20b7bb9588e4512ac55c6216997ed431"
+    "file": "app/modules/welcome/img/3.jpg",
+    "hash": "0171183046f74b74f0dd9c81c8ec57fe"
   },
   {
-    "file": "app/modules/welcome/img/slide4.jpg",
-    "hash": "00e5b66eb5b26258abfb9f76183b8f40"
+    "file": "app/modules/welcome/img/4.jpg",
+    "hash": "c2ebd99577a231c7a7629865302a9ae8"
+  },
+  {
+    "file": "app/modules/welcome/img/ipad/1.jpg",
+    "hash": "0257bf0935390b5ee56b6277bbbeb992"
+  },
+  {
+    "file": "app/modules/welcome/img/ipad/2.jpg",
+    "hash": "663581b3c6593bdb54233a2a7311a2d0"
+  },
+  {
+    "file": "app/modules/welcome/img/ipad/3.jpg",
+    "hash": "481c3645466b9bad45ad1efdcde9a73a"
+  },
+  {
+    "file": "app/modules/welcome/img/ipad/4.jpg",
+    "hash": "ff806c0c3597fb6503aa4d158b7b77d9"
   },
   {
     "file": "app/modules/welcome/img/start.png",
@@ -249,15 +265,19 @@
   },
   {
     "file": "app/modules/welcome/welcome.html",
-    "hash": "07764dff0d216788c79be08a28496744"
+    "hash": "d488b919d0a93a047ff2cb456c64d0dc"
+  },
+  {
+    "file": "app/modules/welcome/welcome.min.css",
+    "hash": "1001d05198fcbf76847f81cdc7e12b37"
   },
   {
     "file": "app/modules/welcome/welcome.min.js",
-    "hash": "e54d67d5725c39dfda13702cca8a7f0d"
+    "hash": "c28910cae2a623e22bf9e2c681f4833d"
   },
   {
     "file": "app/router.min.js",
-    "hash": "02d92725aa180d2609e10b9ca3f7052e"
+    "hash": "e0389aa36eb0474556c2090bbc152c1d"
   },
   {
     "file": "app/services/chcp.min.js",
@@ -293,7 +313,7 @@
   },
   {
     "file": "index.html",
-    "hash": "e7e34f897d1e1e5eaba539bae0255dfa"
+    "hash": "0dd7444721d4abf55e3ce59604add588"
   },
   {
     "file": "lib/iconfont-icon-addon/demo_fontclass.html",
