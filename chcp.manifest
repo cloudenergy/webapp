@@ -1,11 +1,11 @@
 [
   {
     "file": "app/api.min.js",
-    "hash": "ed87f39cebda02ee9ce6a959a801c9f2"
+    "hash": "ddd66cb43bd6e9c56e5cd86752adcbdc"
   },
   {
     "file": "app/app.min.css",
-    "hash": "da8eba13341a80648baeb04cfc81feab"
+    "hash": "cd08e64abb3c8c05defada2a6e4b7f22"
   },
   {
     "file": "app/app.min.js",
@@ -13,11 +13,11 @@
   },
   {
     "file": "app/bundle-app.css",
-    "hash": "e2b381e72f06b4580148658d00007722"
+    "hash": "70e2eeff616da5cae357da4dda92111f"
   },
   {
     "file": "app/bundle-app.js",
-    "hash": "d932c1eea8edb13daa5465f71f8a4e2e"
+    "hash": "3e281eec61ff5e1853f055c4e99bd2be"
   },
   {
     "file": "app/bundle-libs.js",
@@ -133,7 +133,7 @@
   },
   {
     "file": "app/modules/fee/fee.html",
-    "hash": "ac56d7118003ba3cccb7fafff9313e85"
+    "hash": "6452e78b854d81a414aee1d2f9645158"
   },
   {
     "file": "app/modules/fee/fee.min.js",
@@ -149,7 +149,7 @@
   },
   {
     "file": "app/modules/index/index.html",
-    "hash": "cc6d90c783f75dd95062c97d80448cb4"
+    "hash": "d6f60b5f2b6cb5461e6456fc06a4ba77"
   },
   {
     "file": "app/modules/index/index.min.css",
@@ -176,12 +176,16 @@
     "hash": "e28b0ae62a36988e15bd20068b901116"
   },
   {
-    "file": "app/modules/message/message.html",
-    "hash": "f7d71c0d1489c02f623e7b8746e9ee96"
+    "file": "app/modules/notification/notification.html",
+    "hash": "01bb63fde5ae9b564e0294b4397fcdfc"
   },
   {
-    "file": "app/modules/message/message.min.js",
-    "hash": "ba7552c97e8c894a6f7a9084239b038e"
+    "file": "app/modules/notification/notification.min.css",
+    "hash": "b713b48e9a788d60a0d2a8032bb7aee2"
+  },
+  {
+    "file": "app/modules/notification/notification.min.js",
+    "hash": "ff28d5a01294bf476e89ad68a38cff98"
   },
   {
     "file": "app/modules/recharge/channel.html",
@@ -277,7 +281,7 @@
   },
   {
     "file": "app/router.min.js",
-    "hash": "e0389aa36eb0474556c2090bbc152c1d"
+    "hash": "ebc5a1967c13f1449ba8d1cf850e7e57"
   },
   {
     "file": "app/services/chcp.min.js",
@@ -285,11 +289,11 @@
   },
   {
     "file": "app/services/fundebug.min.js",
-    "hash": "50fc5048fabf53280bbb140208070b96"
+    "hash": "24b10457f21c74aab41cb1d4ef64192f"
   },
   {
     "file": "app/services/jpush.min.js",
-    "hash": "e2a1a148ca05cf053399d2a24a49000e"
+    "hash": "36ba978aaa147e4ab41deee00b412318"
   },
   {
     "file": "app/services/storage.min.js",
@@ -313,7 +317,7 @@
   },
   {
     "file": "index.html",
-    "hash": "4ead0ea637647ae20b7cb9c12fe9f1ed"
+    "hash": "7de6a698bb370f42b3c84e68142f9a61"
   },
   {
     "file": "lib/iconfont-icon-addon/demo_fontclass.html",
@@ -357,15 +361,15 @@
   },
   {
     "file": "lib/iconfont-icon-app/demo_fontclass.html",
-    "hash": "5c1f1c3e59934712acf963cf49afb318"
+    "hash": "faafda9bd0ffc4f3a49463880f4cae8d"
   },
   {
     "file": "lib/iconfont-icon-app/demo_symbol.html",
-    "hash": "e6a007c0b19b4f753c059fdf60ed3a91"
+    "hash": "b417112bf795cb8f5eaf24e250e9410d"
   },
   {
     "file": "lib/iconfont-icon-app/demo_unicode.html",
-    "hash": "c6cca001e4e8943372aa632ff2d6e08b"
+    "hash": "177e21eb883522fe47fa136b5696d14e"
   },
   {
     "file": "lib/iconfont-icon-app/demo.css",
@@ -373,27 +377,27 @@
   },
   {
     "file": "lib/iconfont-icon-app/iconfont.css",
-    "hash": "6bd91e60970c5c4e8d6bc89318e4279c"
+    "hash": "a8f3d6537c16bc95e611538b39c7c899"
   },
   {
     "file": "lib/iconfont-icon-app/iconfont.eot",
-    "hash": "39ff40ae782d95ae7ea452a910174b7a"
+    "hash": "57da1ae6d22bfe8f47b8128f2c531355"
   },
   {
     "file": "lib/iconfont-icon-app/iconfont.js",
-    "hash": "476b317718d96e60ba879e42d5e0136b"
+    "hash": "9d17d02e60ec84d0432948a10a5f5298"
   },
   {
     "file": "lib/iconfont-icon-app/iconfont.svg",
-    "hash": "048f21500823a7def98f9d69339da33d"
+    "hash": "24ab88c0465cc3b087ec9fbe909481eb"
   },
   {
     "file": "lib/iconfont-icon-app/iconfont.ttf",
-    "hash": "b8a1ebccf24d0883a05b2ee27e263898"
+    "hash": "35934982e491dde39907d83f4ce0605e"
   },
   {
     "file": "lib/iconfont-icon-app/iconfont.woff",
-    "hash": "70e6a7f5c0306e34fe023c19e6f650d4"
+    "hash": "210535eb6497309a300fe82629627245"
   },
   {
     "file": "lib/pingpp-js-2.1.9/alipay_in_weixin/pay.htm",
