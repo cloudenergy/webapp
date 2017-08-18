@@ -9,7 +9,7 @@
   },
   {
     "file": "app/app.min.js",
-    "hash": "aab41f1d15c8ab75b23911bcde02631a"
+    "hash": "5f73079f7a10b809fe1a039ecd951cca"
   },
   {
     "file": "app/bundle-app.css",
@@ -17,7 +17,7 @@
   },
   {
     "file": "app/bundle-app.js",
-    "hash": "223d4feda0d50239fe025ad684ba184c"
+    "hash": "fb593a414f922c3b0260fee2fca9852f"
   },
   {
     "file": "app/bundle-libs.js",
@@ -157,7 +157,7 @@
   },
   {
     "file": "app/modules/index/index.min.js",
-    "hash": "4c1073c115a1c99481326ca2e23bdbb1"
+    "hash": "adfb696d52ec18fe883f4a9c69c774e9"
   },
   {
     "file": "app/modules/login/img/login-bg.jpg",
@@ -281,7 +281,7 @@
   },
   {
     "file": "app/router.min.js",
-    "hash": "1d3ae5b087cd882c513bba0b8e0f4b66"
+    "hash": "075578db5965013a090c31fcc38d6990"
   },
   {
     "file": "app/services/chcp.min.js",
@@ -289,11 +289,11 @@
   },
   {
     "file": "app/services/fundebug.min.js",
-    "hash": "24b10457f21c74aab41cb1d4ef64192f"
+    "hash": "c54eeb9f2ab77934410a20ce869cce5b"
   },
   {
     "file": "app/services/jpush.min.js",
-    "hash": "4a25c42b926300148b5c380544d5fd7d"
+    "hash": "6f2642cc8826126b21bf7e478953fa79"
   },
   {
     "file": "app/services/storage.min.js",
@@ -301,7 +301,7 @@
   },
   {
     "file": "app/services/user.min.js",
-    "hash": "b002a029e3b2f3362961fdba23400cb8"
+    "hash": "fb312f1d6c43c59668775c8485c4b90e"
   },
   {
     "file": "app/tabs.html",
@@ -317,7 +317,7 @@
   },
   {
     "file": "index.html",
-    "hash": "29dc1ad0d8fd7080cfe7f08bd216d4d4"
+    "hash": "fcb2fe5db2418734e14035043843618e"
   },
   {
     "file": "lib/iconfont-icon-addon/demo_fontclass.html",
