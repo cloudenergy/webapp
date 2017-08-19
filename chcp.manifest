@@ -17,7 +17,7 @@
   },
   {
     "file": "app/bundle-app.js",
-    "hash": "dff348d15f8f37550725ac927fd69ca7"
+    "hash": "fc8ec7de614b878f61dc29228c86550c"
   },
   {
     "file": "app/bundle-libs.js",
@@ -149,7 +149,7 @@
   },
   {
     "file": "app/modules/index/index.html",
-    "hash": "d6f60b5f2b6cb5461e6456fc06a4ba77"
+    "hash": "a93b21f7962ebf9d4b2798acc332fd39"
   },
   {
     "file": "app/modules/index/index.min.css",
@@ -157,7 +157,7 @@
   },
   {
     "file": "app/modules/index/index.min.js",
-    "hash": "adfb696d52ec18fe883f4a9c69c774e9"
+    "hash": "e58bc8bf952b3e1990a1cc84882041a2"
   },
   {
     "file": "app/modules/login/img/login-bg.jpg",
@@ -185,7 +185,7 @@
   },
   {
     "file": "app/modules/notification/notification.min.js",
-    "hash": "ff28d5a01294bf476e89ad68a38cff98"
+    "hash": "41c2519219d23b51abacffcec9701f90"
   },
   {
     "file": "app/modules/recharge/channel.html",
@@ -281,7 +281,7 @@
   },
   {
     "file": "app/router.min.js",
-    "hash": "075578db5965013a090c31fcc38d6990"
+    "hash": "14f75e954f288e0bf20993ffc2fdf48c"
   },
   {
     "file": "app/services/chcp.min.js",
@@ -289,11 +289,11 @@
   },
   {
     "file": "app/services/fundebug.min.js",
-    "hash": "c54eeb9f2ab77934410a20ce869cce5b"
+    "hash": "c830ea6cb14cb75f839fe26c9a58c449"
   },
   {
     "file": "app/services/jpush.min.js",
-    "hash": "d4a6f9840d0659bfa103bf6532b87515"
+    "hash": "2769644d54406bed8f28cf28920d8d1a"
   },
   {
     "file": "app/services/storage.min.js",
@@ -317,7 +317,7 @@
   },
   {
     "file": "index.html",
-    "hash": "1e1ad008dc401a18752e083a9c6c126a"
+    "hash": "c08e2c7419badd216de74814fedd0a66"
   },
   {
     "file": "lib/iconfont-icon-addon/demo_fontclass.html",
