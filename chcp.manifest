@@ -17,7 +17,7 @@
   },
   {
     "file": "app/bundle-app.js",
-    "hash": "ee554a7a7c8bfda49420176ed86c694a"
+    "hash": "adcf11255b99e785a19e6edc447d7d6e"
   },
   {
     "file": "app/bundle-libs.js",
@@ -93,7 +93,7 @@
   },
   {
     "file": "app/modules/device/device.html",
-    "hash": "0e68d6d0c5c0aa26b13783205b4ac7fc"
+    "hash": "8b6347f10cc9873ccc81e116b8c192bf"
   },
   {
     "file": "app/modules/device/device.min.css",
@@ -101,11 +101,11 @@
   },
   {
     "file": "app/modules/device/device.min.js",
-    "hash": "d287f181237b2ed3e928858691a6bc5e"
+    "hash": "0d721e975d4af8752cf8baacaa2e37af"
   },
   {
     "file": "app/modules/device/month.html",
-    "hash": "ea124d02166a9e0dc7d8c4b6acbc9491"
+    "hash": "867d7c8046af41fb101dcc5b9bad47d4"
   },
   {
     "file": "app/modules/device/month.min.js",
@@ -113,7 +113,7 @@
   },
   {
     "file": "app/modules/device/sensor.html",
-    "hash": "68e566c6627b85de7e4739f5e77339d9"
+    "hash": "b3e07b1b51f2fb19e89fb98a5aebb979"
   },
   {
     "file": "app/modules/device/sensor.min.css",
@@ -133,11 +133,11 @@
   },
   {
     "file": "app/modules/fee/fee.html",
-    "hash": "6452e78b854d81a414aee1d2f9645158"
+    "hash": "c131a255fb0a29e89d0ebe75ec252892"
   },
   {
     "file": "app/modules/fee/fee.min.js",
-    "hash": "6017fa0999305659f14543a6f71ba712"
+    "hash": "c1f394dd2d206992693777e6ded871cd"
   },
   {
     "file": "app/modules/iframe/iframe.html",
@@ -177,7 +177,7 @@
   },
   {
     "file": "app/modules/notification/notification.html",
-    "hash": "01bb63fde5ae9b564e0294b4397fcdfc"
+    "hash": "015b1215efff1f4dce20f70181cf0fd4"
   },
   {
     "file": "app/modules/notification/notification.min.css",
@@ -185,7 +185,7 @@
   },
   {
     "file": "app/modules/notification/notification.min.js",
-    "hash": "41c2519219d23b51abacffcec9701f90"
+    "hash": "217897f039802f98eb5b35a3559deec7"
   },
   {
     "file": "app/modules/recharge/channel.html",
@@ -197,11 +197,11 @@
   },
   {
     "file": "app/modules/recharge/log.html",
-    "hash": "54720f26428cd794de1943a2aa19faba"
+    "hash": "94db029985bc93b79d5e53ae51413ac6"
   },
   {
     "file": "app/modules/recharge/log.min.js",
-    "hash": "0adcb12836253e03a4bd45be6abe1d2f"
+    "hash": "cc85ee1abc471ecd8a935eb8a1a73c44"
   },
   {
     "file": "app/modules/recharge/recharge.html",
@@ -281,7 +281,7 @@
   },
   {
     "file": "app/router.min.js",
-    "hash": "5a9d64a660c61cb3ab510c0feebe5eb6"
+    "hash": "8cdee6b45096ee8f3092a530fd6f6f4a"
   },
   {
     "file": "app/services/chcp.min.js",
@@ -289,19 +289,23 @@
   },
   {
     "file": "app/services/fundebug.min.js",
-    "hash": "8c16d1fe482fa0b2c145a43b6567ce9b"
+    "hash": "57a8f6aeee345fd226343b8d3fbbe6d6"
   },
   {
     "file": "app/services/jpush.min.js",
-    "hash": "034bb8100e7afd287e4f486e1b3b5e58"
+    "hash": "384170badd36ea78af11fa985bb0d34d"
+  },
+  {
+    "file": "app/services/message.min.js",
+    "hash": "1cf1cafaedeb1bfbd9fb7e1efaec890b"
   },
   {
     "file": "app/services/storage.min.js",
-    "hash": "8befce03ba6f894e2a1e39d85faf20fb"
+    "hash": "a34644a6f26e48985e9214eeb60fedc3"
   },
   {
     "file": "app/services/user.min.js",
-    "hash": "8b105fc6e6b83f35ea41df36f87dd72e"
+    "hash": "d3c2adad962e8f07dcd5f1877fe3d921"
   },
   {
     "file": "app/tabs.html",
@@ -317,7 +321,7 @@
   },
   {
     "file": "index.html",
-    "hash": "34f2c13294752088b064937a0a0c7690"
+    "hash": "40d7ded0998b0165d44188173e9a0504"
   },
   {
     "file": "lib/iconfont-icon-addon/demo_fontclass.html",
