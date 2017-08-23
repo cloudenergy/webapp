@@ -1,4 +1,4 @@
-<ion-view><ion-nav-title>{{$root.User.data.department}}</ion-nav-title><ion-content scrollbar-x="false" class="module-index stable-bg has-tabs"><ion-refresher class="positive" pulling-icon="ion-ios-arrow-down positive" spinner="ripple" on-refresh="$ctrl.refresh(false)"></ion-refresher><ng-include src="$ctrl.template.url" flex layout></ng-include><script type="text/ng-template" id="index-tmpl-default.html"><ion-slides options="$ctrl.options" slider="$ctrl.slider" ng-if="$ctrl.template.slide.length" ng-style="{height:$ctrl.sliderHeight+'px'}">
+<ion-view><ion-nav-title>{{$root.User.data.department}}</ion-nav-title><ion-nav-buttons side="right"><a class="button button-clear unread-tips" ui-sref="app.notification"><i class="icon icon-app icon-notification"></i> <i class="ion-record assertive" ng-class="{hide:!$root.UNREADMESSAGE||!$root.UNREADMESSAGE.length}"></i></a></ion-nav-buttons><ion-content scrollbar-x="false" class="module-index stable-bg has-tabs"><ion-refresher class="positive" pulling-icon="ion-ios-arrow-down positive" spinner="ripple" on-refresh="$ctrl.refresh(false)"></ion-refresher><ng-include src="$ctrl.template.url" flex layout></ng-include><script type="text/ng-template" id="index-tmpl-default.html"><ion-slides options="$ctrl.options" slider="$ctrl.slider" ng-if="$ctrl.slideEnable && $ctrl.template.slide.length" ng-style="{height:$ctrl.sliderHeight+'px'}">
                 <ion-slide-page ng-repeat="item in $ctrl.template.slide|orderBy:'sort' track by $index">
                     <a ng-if="item.target" ui-sref="app.iframe({title:'{{item.title}}',target:'{{item.target}}'})">
                         <img ng-style="{width:'100%'}" ng-src="{{'http://7xruep.com1.z0.glb.clouddn.com/'+item.key+'?imageView2/1/w/750/h/360/interlace/1/q/80|imageslim'}}" />
@@ -25,7 +25,7 @@
                     <div class="calm" ng-bind="item.label" ng-if="item.state"></div>
                 </div>
             </div>
-            <div class="row row-wrap row-center row-no-padding index-apps-third">
+            <div class="row row-wrap row-center row-no-padding index-apps-third" ng-if="!$ctrl.AppReview">
                 <div class="col col-25 text-center" ng-repeat="item in $ctrl.template.third|orderBy:'sort' track by $index" ng-if="$ctrl.expand===-1?true:$index<$ctrl.expand">
                     <a class="button" ui-sref="{{item.state||'app.iframe'}}({title:'{{item.label}}',target:'{{item.target}}'})">
                         <i ng-class="item.icon"></i>
@@ -37,5 +37,43 @@
                         <i class="icon-app icon-more"></i>
                     </a>
                     <div>更多</div>
+                </div>
+            </div>
+            <div class="row row-wrap row-center row-no-padding index-apps-third" ng-if="$ctrl.AppReview">
+                <div class="col col-25 text-center">
+                    <a class="button" ng-click="$ctrl.comingSoon()">
+                        <i class="icon-addon addon-repair"></i>
+                    </a>
+                    <div>维修</div>
+                </div>
+                <div class="col col-25 text-center">
+                    <a class="button" ng-click="$ctrl.comingSoon()">
+                        <i class="icon-addon addon-tele"></i>
+                    </a>
+                    <div>物业</div>
+                </div>
+                <div class="col col-25 text-center">
+                    <a class="button" ng-click="$ctrl.comingSoon()">
+                        <i class="icon-addon addon-clean-keeping"></i>
+                    </a>
+                    <div>保洁</div>
+                </div>
+                <div class="col col-25 text-center">
+                    <a class="button" ng-click="$ctrl.comingSoon()">
+                        <i class="icon-addon addon-rent"></i>
+                    </a>
+                    <div>租赁</div>
+                </div>
+                <div class="col col-25 text-center">
+                    <a class="button" ng-click="$ctrl.comingSoon()">
+                        <i class="icon-addon addon-flower"></i>
+                    </a>
+                    <div>花卉</div>
+                </div>
+                <div class="col col-25 text-center">
+                    <a class="button" ng-click="$ctrl.comingSoon()">
+                        <i class="icon-addon addon-fitment"></i>
+                    </a>
+                    <div>装修</div>
                 </div>
             </div></script></ion-content><ion-tabs class="tabs-icon-top tabs-background-stable tabs-color-active-positive" delegate-handle="tabs"><ion-tab title="首页" icon="icon-app icon-index" ui-sref="app.index"></ion-tab><ion-tab title="仪表" icon="icon-app icon-energy" ui-sref="app.device"></ion-tab><ion-tab title="充值" icon="icon-app icon-recharge" ui-sref="app.recharge"></ion-tab><ion-tab title="我的" icon="icon-app icon-my" ui-sref="app.account"></ion-tab></ion-tabs></ion-view>

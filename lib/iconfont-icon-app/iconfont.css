@@ -1,10 +1,10 @@
 
 @font-face {font-family: "icon-app";
-  src: url('iconfont.eot?t=1500966362423'); /* IE9*/
-  src: url('iconfont.eot?t=1500966362423#iefix') format('embedded-opentype'), /* IE6-IE8 */
-  url('iconfont.woff?t=1500966362423') format('woff'), /* chrome, firefox */
-  url('iconfont.ttf?t=1500966362423') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
-  url('iconfont.svg?t=1500966362423#icon-app') format('svg'); /* iOS 4.1- */
+  src: url('iconfont.eot?t=1502355224595'); /* IE9*/
+  src: url('iconfont.eot?t=1502355224595#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('iconfont.woff?t=1502355224595') format('woff'), /* chrome, firefox */
+  url('iconfont.ttf?t=1502355224595') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('iconfont.svg?t=1502355224595#icon-app') format('svg'); /* iOS 4.1- */
 }
 
 .icon-app {
@@ -16,6 +16,8 @@
 }
 
 .icon-email:before { content: "\e64a"; }
+
+.icon-notification:before { content: "\e682"; }
 
 .icon-phone:before { content: "\e622"; }
 
