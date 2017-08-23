@@ -17,7 +17,7 @@
   },
   {
     "file": "app/bundle-app.js",
-    "hash": "a01847700b2bfdf4c95d91491d3c543e"
+    "hash": "32bfe8a909780009b54f651b32a85ab8"
   },
   {
     "file": "app/bundle-libs.js",
@@ -185,7 +185,7 @@
   },
   {
     "file": "app/modules/notification/notification.min.js",
-    "hash": "e710f701c67a94eef57dda07a9cb64a6"
+    "hash": "9f171f2773d40d9e1a53eccaf1af4a38"
   },
   {
     "file": "app/modules/recharge/channel.html",
@@ -281,7 +281,7 @@
   },
   {
     "file": "app/router.min.js",
-    "hash": "5b0cefb2e9b7999a74d02dab75cd026b"
+    "hash": "d3fe1e13a9ba8c2ddb0d5a81af06e93e"
   },
   {
     "file": "app/services/chcp.min.js",
@@ -321,7 +321,7 @@
   },
   {
     "file": "index.html",
-    "hash": "1f029ee8bdcb2c9cb72ef2f77ad0e40b"
+    "hash": "9a8bb240fd068e14d554adfe6340e760"
   },
   {
     "file": "lib/iconfont-icon-addon/demo_fontclass.html",
