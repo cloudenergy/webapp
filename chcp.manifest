@@ -17,7 +17,7 @@
   },
   {
     "file": "app/bundle-app.js",
-    "hash": "95b55d08a4683ab9d09142f7307e9698"
+    "hash": "ec063ac771846cebfcad707ebe6d2339"
   },
   {
     "file": "app/bundle-libs.js",
@@ -185,7 +185,7 @@
   },
   {
     "file": "app/modules/notification/notification.min.js",
-    "hash": "2ca3b285ddced46f5cb1f33d70e6ad75"
+    "hash": "d06ce5f0e6812f70a811a518946ab3c6"
   },
   {
     "file": "app/modules/recharge/channel.html",
@@ -281,7 +281,7 @@
   },
   {
     "file": "app/router.min.js",
-    "hash": "7b2fb51eef5227edf7b2b5ce2e7ba205"
+    "hash": "663873de564c87d955b6e4a61357fc04"
   },
   {
     "file": "app/services/chcp.min.js",
@@ -293,11 +293,11 @@
   },
   {
     "file": "app/services/jpush.min.js",
-    "hash": "74c326d82fd7fb7a9dce08214edd80fc"
+    "hash": "edbfff9be43d14364cc0aae2675db281"
   },
   {
     "file": "app/services/message.min.js",
-    "hash": "3f3398e3706b5fd3ef9c92112913b3cf"
+    "hash": "1b41a1eaad09ec019c2d5c44ba7e27a6"
   },
   {
     "file": "app/services/storage.min.js",
@@ -321,7 +321,7 @@
   },
   {
     "file": "index.html",
-    "hash": "2504b9be4ed9ece3f2e0186432194b51"
+    "hash": "2d3ef00fbc426b47d24ad4ddf41287af"
   },
   {
     "file": "lib/iconfont-icon-addon/demo_fontclass.html",
