@@ -25,7 +25,7 @@
                     <div class="calm" ng-bind="item.label" ng-if="item.state"></div>
                 </div>
             </div>
-            <div class="row row-wrap row-center row-no-padding index-apps-third">
+            <div class="row row-wrap row-center row-no-padding index-apps-third" ng-if="!$ctrl.AppReview">
                 <div class="col col-25 text-center" ng-repeat="item in $ctrl.template.third|orderBy:'sort' track by $index" ng-if="$ctrl.expand===-1?true:$index<$ctrl.expand">
                     <a class="button" ui-sref="{{item.state||'app.iframe'}}({title:'{{item.label}}',target:'{{item.target}}'})">
                         <i ng-class="item.icon"></i>
@@ -37,5 +37,43 @@
                         <i class="icon-app icon-more"></i>
                     </a>
                     <div>更多</div>
+                </div>
+            </div>
+            <div class="row row-wrap row-center row-no-padding index-apps-third" ng-if="$ctrl.AppReview">
+                <div class="col col-25 text-center">
+                    <a class="button" ng-click="$ctrl.comingSoon()">
+                        <i class="icon-addon addon-repair"></i>
+                    </a>
+                    <div>维修</div>
+                </div>
+                <div class="col col-25 text-center">
+                    <a class="button" ng-click="$ctrl.comingSoon()">
+                        <i class="icon-addon addon-tele"></i>
+                    </a>
+                    <div>物业</div>
+                </div>
+                <div class="col col-25 text-center">
+                    <a class="button" ng-click="$ctrl.comingSoon()">
+                        <i class="icon-addon addon-clean-keeping"></i>
+                    </a>
+                    <div>保洁</div>
+                </div>
+                <div class="col col-25 text-center">
+                    <a class="button" ng-click="$ctrl.comingSoon()">
+                        <i class="icon-addon addon-rent"></i>
+                    </a>
+                    <div>租赁</div>
+                </div>
+                <div class="col col-25 text-center">
+                    <a class="button" ng-click="$ctrl.comingSoon()">
+                        <i class="icon-addon addon-flower"></i>
+                    </a>
+                    <div>花卉</div>
+                </div>
+                <div class="col col-25 text-center">
+                    <a class="button" ng-click="$ctrl.comingSoon()">
+                        <i class="icon-addon addon-fitment"></i>
+                    </a>
+                    <div>装修</div>
                 </div>
             </div></script></ion-content><ion-tabs class="tabs-icon-top tabs-background-stable tabs-color-active-positive" delegate-handle="tabs"><ion-tab title="首页" icon="icon-app icon-index" ui-sref="app.index"></ion-tab><ion-tab title="仪表" icon="icon-app icon-energy" ui-sref="app.device"></ion-tab><ion-tab title="充值" icon="icon-app icon-recharge" ui-sref="app.recharge"></ion-tab><ion-tab title="我的" icon="icon-app icon-my" ui-sref="app.account"></ion-tab></ion-tabs></ion-view>

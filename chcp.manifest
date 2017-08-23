@@ -17,7 +17,7 @@
   },
   {
     "file": "app/bundle-app.js",
-    "hash": "a01847700b2bfdf4c95d91491d3c543e"
+    "hash": "3b0c566fec6aa102abce2518fbc4562c"
   },
   {
     "file": "app/bundle-libs.js",
@@ -149,15 +149,15 @@
   },
   {
     "file": "app/modules/index/index.html",
-    "hash": "a5828a500072f2366e26ea5c34556371"
+    "hash": "771caa932ac2bbfef1c45dcd4bf33bf4"
   },
   {
     "file": "app/modules/index/index.min.css",
-    "hash": "a58c221083f13995b9843556ca3a4cf6"
+    "hash": "75194c081338460498112dde93b517b9"
   },
   {
     "file": "app/modules/index/index.min.js",
-    "hash": "e58bc8bf952b3e1990a1cc84882041a2"
+    "hash": "edba646bf455e971f29ac21d3357e209"
   },
   {
     "file": "app/modules/login/img/login-bg.jpg",
@@ -185,7 +185,7 @@
   },
   {
     "file": "app/modules/notification/notification.min.js",
-    "hash": "e710f701c67a94eef57dda07a9cb64a6"
+    "hash": "47ca5c25dcee36a860aef02e560a147f"
   },
   {
     "file": "app/modules/recharge/channel.html",
@@ -233,7 +233,7 @@
   },
   {
     "file": "app/modules/welcome/img/1.jpg",
-    "hash": "f4c1838d6fcbdc1572b6249accb144a1"
+    "hash": "a95a3bde5dd48e87036271313a7fb61a"
   },
   {
     "file": "app/modules/welcome/img/2.jpg",
@@ -249,7 +249,7 @@
   },
   {
     "file": "app/modules/welcome/img/ipad/1.jpg",
-    "hash": "0257bf0935390b5ee56b6277bbbeb992"
+    "hash": "5705fc45f437506df9a23e0c594ac262"
   },
   {
     "file": "app/modules/welcome/img/ipad/2.jpg",
@@ -269,7 +269,7 @@
   },
   {
     "file": "app/modules/welcome/welcome.html",
-    "hash": "d488b919d0a93a047ff2cb456c64d0dc"
+    "hash": "41b1120f5495b8b2adef7f5f428d4e56"
   },
   {
     "file": "app/modules/welcome/welcome.min.css",
@@ -281,7 +281,7 @@
   },
   {
     "file": "app/router.min.js",
-    "hash": "5b0cefb2e9b7999a74d02dab75cd026b"
+    "hash": "fbeea085f6fa5902a768ff4050a98db6"
   },
   {
     "file": "app/services/chcp.min.js",
@@ -321,7 +321,7 @@
   },
   {
     "file": "index.html",
-    "hash": "1f029ee8bdcb2c9cb72ef2f77ad0e40b"
+    "hash": "9b6b4562d0e37609566bcc7162e2b9f9"
   },
   {
     "file": "lib/iconfont-icon-addon/demo_fontclass.html",
