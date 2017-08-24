@@ -1,7 +1,7 @@
 [
   {
     "file": "app/api.min.js",
-    "hash": "ddd66cb43bd6e9c56e5cd86752adcbdc"
+    "hash": "6ae219b42240a4f0660092a7cf441a6f"
   },
   {
     "file": "app/app.min.css",
@@ -17,7 +17,7 @@
   },
   {
     "file": "app/bundle-app.js",
-    "hash": "6146f987c3c9681c8787e3bd440d6c71"
+    "hash": "a9742cb72d451949a119359db813304d"
   },
   {
     "file": "app/bundle-libs.js",
@@ -329,7 +329,7 @@
   },
   {
     "file": "index.html",
-    "hash": "3cad700e91d5a17cb6ce6f30c5afdadb"
+    "hash": "be737a51aa14e505217419a71e41fb74"
   },
   {
     "file": "lib/iconfont-icon-addon/demo_fontclass.html",
