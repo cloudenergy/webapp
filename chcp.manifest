@@ -17,7 +17,7 @@
   },
   {
     "file": "app/bundle-app.js",
-    "hash": "dcef0af2957f7ebd4fb7fc25829aee58"
+    "hash": "6146f987c3c9681c8787e3bd440d6c71"
   },
   {
     "file": "app/bundle-libs.js",
@@ -233,7 +233,7 @@
   },
   {
     "file": "app/modules/welcome/img/1.jpg",
-    "hash": "a619d61eee0ad7a597721755a526c4ca"
+    "hash": "e3188307a92dfbe123940245c587cbc3"
   },
   {
     "file": "app/modules/welcome/img/2.jpg",
@@ -277,7 +277,7 @@
   },
   {
     "file": "app/modules/welcome/welcome.html",
-    "hash": "124bbbcfb79f52eaf8cbc53d375cbb70"
+    "hash": "4034331f779a3b04042c630c84df5bca"
   },
   {
     "file": "app/modules/welcome/welcome.min.css",
@@ -289,11 +289,11 @@
   },
   {
     "file": "app/router.min.js",
-    "hash": "2cc80b08241ad15c594f14bbf4264b8b"
+    "hash": "02f59f57315c3f4f290999c34a7dc789"
   },
   {
     "file": "app/services/chcp.min.js",
-    "hash": "a3aa9381eef47dccc78fe1d58387eace"
+    "hash": "35e9b3bcd278d9b96e947a720f8920ab"
   },
   {
     "file": "app/services/fundebug.min.js",
@@ -305,7 +305,7 @@
   },
   {
     "file": "app/services/message.min.js",
-    "hash": "786ebcb85653e4cf936460be779ee8f0"
+    "hash": "aec5f261026184b6a11b4cc732c15c92"
   },
   {
     "file": "app/services/storage.min.js",
@@ -329,7 +329,7 @@
   },
   {
     "file": "index.html",
-    "hash": "e825436d067e17220fbcd7ed10ed0508"
+    "hash": "3cad700e91d5a17cb6ce6f30c5afdadb"
   },
   {
     "file": "lib/iconfont-icon-addon/demo_fontclass.html",
