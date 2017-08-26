@@ -17,7 +17,7 @@
   },
   {
     "file": "app/bundle-app.js",
-    "hash": "d0c1dd2f05607cec6bd468754087e008"
+    "hash": "956be8a486be8a5255ea9ba29d9cd144"
   },
   {
     "file": "app/bundle-libs.js",
@@ -81,7 +81,7 @@
   },
   {
     "file": "app/modules/bind/bind.html",
-    "hash": "e5558a1a2476db9a7bc2e3b62a98988b"
+    "hash": "e9ea47046c4cb00a9ec3b7812bd0108f"
   },
   {
     "file": "app/modules/bind/bind.min.css",
@@ -89,7 +89,7 @@
   },
   {
     "file": "app/modules/bind/bind.min.js",
-    "hash": "25d28dee229d7774786c0e8cf16f789e"
+    "hash": "b9cb73b599c2f21dde9b43346d25e480"
   },
   {
     "file": "app/modules/device/device.html",
@@ -165,7 +165,7 @@
   },
   {
     "file": "app/modules/login/login.html",
-    "hash": "df7dac65681e8e4d8af42da07c10dd4f"
+    "hash": "e866cdbbca59ce94a1b033359d5b5d05"
   },
   {
     "file": "app/modules/login/login.min.css",
@@ -173,7 +173,7 @@
   },
   {
     "file": "app/modules/login/login.min.js",
-    "hash": "e28b0ae62a36988e15bd20068b901116"
+    "hash": "74e3ef6d5b5b3f485a18da2c4132e2f0"
   },
   {
     "file": "app/modules/notification/notification.html",
@@ -289,7 +289,7 @@
   },
   {
     "file": "app/router.min.js",
-    "hash": "0bfb363fbc5c8c0f2662bf92dbcef814"
+    "hash": "1b58389fac15f4768c840fbc71530584"
   },
   {
     "file": "app/services/chcp.min.js",
@@ -329,7 +329,7 @@
   },
   {
     "file": "index.html",
-    "hash": "b14edae08a06180770bf0fc919267444"
+    "hash": "ac9ee9c8d44dfe9273b06f496edf96db"
   },
   {
     "file": "lib/iconfont-icon-addon/demo_fontclass.html",
