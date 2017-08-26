@@ -1,9 +1,1 @@
-<ion-view><ion-nav-title>我的报修</ion-nav-title><ion-nav-buttons side="left"><button class="button button-clear" ng-click="$ionicGoBack()"><i class="icon ion-ios-arrow-back"></i> 返回</button></ion-nav-buttons><ion-nav-buttons side="right"><button class="button button-clear" ng-click="">我要报修</button></ion-nav-buttons><ion-content scrollbar-x="false" class="module-notification stable-bg"><ion-refresher class="positive" pulling-icon="ion-ios-arrow-down positive" spinner="ripple" on-refresh="$ctrl.loadList('refresher')"></ion-refresher><div class="padding text-center text-subdued" ng-if="$ctrl.list.length===0">没有保修信息</div><div class="list card" on-hold="$ctrl.hold($event,$index,item)" ng-repeat="item in $ctrl.list"><div class="item item-divider"><h2 ng-bind="item.typename"></h2></div><div class="item item-text-wrap" ng-bind-html="item.content.message"></div><div class="item item-divider item-light"><small class="text-subdued" ng-bind="item.timecreate * 1000 | date: 'yyyy年MM月dd日 HH:mm:ss'"></small></div></div><ion-infinite-scroll spinner="ripple" on-infinite="$ctrl.loadList('infinite')" ng-if="!$ctrl.infiniteDisable"></ion-infinite-scroll></ion-content><script id="notification-popover-hold-menu.html" type="text/ng-template"><ion-popover-view class="popover-hold-menu">
-            <ion-content scroll="false">
-                <div class="bar bar-header">
-                    <div class="button-bar">
-                        <a class="button assertive" ng-click="$ctrl.delete()">删除</a>
-                    </div>
-                </div>
-            </ion-content>
-        </ion-popover-view></script></ion-view>
+<ion-view><ion-nav-title>我的报修</ion-nav-title><ion-nav-buttons side="left"><button class="button button-clear" ng-click="$ionicGoBack()"><i class="icon ion-ios-arrow-back"></i> 返回</button></ion-nav-buttons><ion-nav-buttons side="right"><button class="button button-clear" ng-click=""><i class="ion-plus-round"></i> 报修</button></ion-nav-buttons><ion-content scrollbar-x="false" class="stable-bg"></ion-content></ion-view>
