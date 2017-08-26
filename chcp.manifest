@@ -17,7 +17,7 @@
   },
   {
     "file": "app/bundle-app.js",
-    "hash": "58b222688f87dabd30fce886dab41318"
+    "hash": "e5dbb23d0dc38209147c567b87068e96"
   },
   {
     "file": "app/bundle-libs.js",
@@ -289,7 +289,7 @@
   },
   {
     "file": "app/router.min.js",
-    "hash": "621b99af3c7887c653bca21e117d476f"
+    "hash": "16bbbe0ecd84a19daddeb49298780e3e"
   },
   {
     "file": "app/services/chcp.min.js",
@@ -329,7 +329,7 @@
   },
   {
     "file": "index.html",
-    "hash": "b905a2d7a4de0fb146fa449c6075331b"
+    "hash": "69c9e4ae858730e802ec1c578798e6b6"
   },
   {
     "file": "lib/iconfont-icon-addon/demo_fontclass.html",
