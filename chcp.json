@@ -1,7 +1,7 @@
 {
   "name": "zufutong",
-  "content_url": "https://app.cloudenergy.me",
+  "content_url": "https://preapp.cloudenergy.me",
   "min_native_interface": 2,
   "update": "now",
-  "release": "2017.08.26-11.42.27"
+  "release": "2017.08.28-14.11.28"
 }

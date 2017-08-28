@@ -17,7 +17,7 @@
   },
   {
     "file": "app/bundle-app.js",
-    "hash": "956be8a486be8a5255ea9ba29d9cd144"
+    "hash": "ca43d03a86f8e57397ddf0b686fdb490"
   },
   {
     "file": "app/bundle-libs.js",
@@ -149,7 +149,7 @@
   },
   {
     "file": "app/modules/index/index.html",
-    "hash": "35af600bdde350c0ceaa44af1d5515bc"
+    "hash": "74c7c9eb6af3ef0cd6881759d86f3a6d"
   },
   {
     "file": "app/modules/index/index.min.css",
@@ -217,11 +217,11 @@
   },
   {
     "file": "app/modules/repair/detail.html",
-    "hash": "bb7a4d830482422af50bc82116f7541c"
+    "hash": "b141d8e3120eb01b479799ea5bc1c158"
   },
   {
     "file": "app/modules/repair/repair.html",
-    "hash": "a3849eec1dc2ddd57e2d65073622ca4d"
+    "hash": "0bba3ffc2ad469c87bdb900154631322"
   },
   {
     "file": "app/modules/repair/repair.min.css",
@@ -229,7 +229,7 @@
   },
   {
     "file": "app/modules/repair/repair.min.js",
-    "hash": "839c1a99722e734335543a77107dea76"
+    "hash": "7ad670f4522ab57529b01d9a8ce16bbe"
   },
   {
     "file": "app/modules/welcome/img/1.jpg",
@@ -289,7 +289,7 @@
   },
   {
     "file": "app/router.min.js",
-    "hash": "1b58389fac15f4768c840fbc71530584"
+    "hash": "737f111c8e4e522b04e2b05a8f66eb6e"
   },
   {
     "file": "app/services/chcp.min.js",
@@ -329,7 +329,7 @@
   },
   {
     "file": "index.html",
-    "hash": "043c0a9aed9979ea2ac60b01c9758246"
+    "hash": "a8c301968e951428a23724e44a2c6866"
   },
   {
     "file": "lib/iconfont-icon-addon/demo_fontclass.html",
