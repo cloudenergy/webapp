@@ -7,7 +7,9 @@
         <div class="list" ng-if="!$ctrl.data.id">
             <div class="item item-input item-floating-label" ng-repeat="item in $ctrl.content.repairImgs">
                 <span class="input-label text-subdued">base64</span>
-                <p class="padding-top" ng-bind="item"></p>
+                <p class="padding-top">
+                    <img ng-src="{{item}}">
+                </p>
             </div>
             <div class="item item-input item-floating-label">
                 <span class="input-label text-subdued">报修物品</span>
