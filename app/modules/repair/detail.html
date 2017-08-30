@@ -1,1 +1,58 @@
-<repair-detail selected="$ctrl.selected"><ion-modal-view><ion-header-bar align-title="center" class="bar-positive"><div class="buttons"><button class="button button-clear button-primary" type="submit">保存</button></div><h1 class="title" ng-if="!$ctrl.selected">新增</h1><h1 class="title" ng-if="$ctrl.selected">编辑</h1><div class="buttons"><button class="button button-clear button-primary" type="button" ng-click="$ctrl.modalDetail.hide()">取消</button></div></ion-header-bar><ion-content scroll="false" class="stable-bg"><div class="list padding-top"><label class="item item-input"><span class="input-label" ng-bind="$ctrl.editItem.label"></span> <input name="input" type="{{$ctrl.editItem.input.type}}" maxlength="{{$ctrl.editItem.input.maxlength}}" ng-model="$ctrl.editItem.value" ng-pattern="$ctrl.editItem.input.pattern" ng-required="$ctrl.editItem.input.required"></label><div class="text-right padding-top padding-right">{{formEdit.input.$viewValue.length}} / {{$ctrl.editItem.input.maxlength}}</div></div></ion-content></ion-modal-view></repair-detail>
+<ion-modal-view><ion-header-bar align-title="center" class="bar-positive"><div class="buttons"><button class="button button-clear button-primary" type="button" ng-if="!$ctrl.selected">提交</button> <button class="button button-clear button-primary" type="button" ng-if="$ctrl.selected">保存</button></div><h1 class="title" ng-if="!$ctrl.selected">新增</h1><h1 class="title" ng-if="$ctrl.selected">编辑</h1><div class="buttons"><button class="button button-clear button-primary" type="button" ng-click="$ctrl.modalDetail.hide()">取消</button></div></ion-header-bar><ion-content><repair-detail selected="$ctrl.selected"></repair-detail></ion-content><script type="text/ng-template" id="tmpl-repair-detail.html"><div class="row" ng-if="!$ctrl.data.id">
+            <div class="col col-33 text-center">
+                <!-- <button class="button ion-ios-plus-empty text-subdued light-bg stable-border" style="width:80px;height:80px;font-size:64px;" ng-model="$ctrl.content.repairImgs" ngf-select="$ctrl.slide.upload()" ngf-multiple="true" ngf-keep="true" ngf-accept="'image/*'" ngf-pattern="'.bmp,.jpg,.jpeg,.png'" ngf-resize="{width: 1920, height: 1080, quality: 0.8}" ngf-resize-if="$width > 1920 || $height > 1080" ngf-max-files="3"></button> -->
+                <button type="button" class="button ion-ios-plus-empty text-subdued light-bg stable-border" style="width:80px;height:80px;font-size:64px;" ng-click="$ctrl.picker()"></button>
+            </div>
+        </div>
+        <div class="list" ng-if="!$ctrl.data.id">
+            <div class="item item-input item-floating-label">
+                <span class="input-label text-subdued">报修物品</span>
+                <input type="text" placeholder="报修物品" ng-model="$ctrl.data.content.repairName">
+            </div>
+            <div class="item item-input item-floating-label">
+                <span class="input-label text-subdued">故障位置</span>
+                <input type="text" placeholder="故障位置" ng-model="$ctrl.data.content.repairPlace">
+            </div>
+            <div class="item item-input item-floating-label">
+                <span class="input-label text-subdued">故障描述<small>（限120个字）</small></span>
+                <textarea placeholder="故障描述（限120个字）" ng-model="$ctrl.data.content.repairContent" maxlength="120" rows="6"></textarea>
+            </div>
+            <div class="item item-input item-floating-label">
+                <span class="input-label text-subdued">联系人</span>
+                <input type="text" placeholder="联系人" ng-model="$ctrl.data.content.repairPerson">
+            </div>
+            <div class="item item-input item-floating-label">
+                <span class="input-label text-subdued">联系电话</span>
+                <input type="text" placeholder="联系电话" ng-model="$ctrl.data.content.repairPhone" ng-pattern="/^1[3,5-8]\d{9}$/">
+            </div>
+        </div>
+        <div class="list" ng-if="$ctrl.data.id">
+            <div class="item item-input item-stacked-label">
+                <span class="input-label text-subdued">报修物品</span>
+                <p class="padding-top" ng-bind="$ctrl.data.content.repairName"></p>
+            </div>
+            <div class="item item-input item-stacked-label">
+                <span class="input-label text-subdued">故障位置</span>
+                <p class="padding-top" ng-bind="$ctrl.data.content.repairPlace"></p>
+            </div>
+            <div class="item item-input item-stacked-label">
+                <span class="input-label text-subdued">故障描述</span>
+                <p class="padding-top" ng-bind="$ctrl.data.content.repairContent"></p>
+            </div>
+            <div class="item item-input item-stacked-label">
+                <span class="input-label text-subdued">联系人</span>
+                <p class="padding-top" ng-bind="$ctrl.data.content.repairPerson"></p>
+            </div>
+            <div class="item item-input item-stacked-label">
+                <span class="input-label text-subdued">联系电话</span>
+                <p class="padding-top" ng-bind="$ctrl.data.content.repairPhone"></p>
+            </div>
+            <div class="item item-input item-stacked-label">
+                <span class="input-label text-subdued">维修状态</span>
+                <p class="padding-top" ng-bind="$ctrl.data.reply.status||'未处理'"></p>
+            </div>
+            <div class="item item-input item-stacked-label">
+                <span class="input-label text-subdued">备注</span>
+                <p class="padding-top" ng-bind="$ctrl.data.remark||'空'"></p>
+            </div>
+        </div></script></ion-modal-view>
