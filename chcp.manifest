@@ -17,7 +17,7 @@
   },
   {
     "file": "app/bundle-app.js",
-    "hash": "cef58cb8b7375f15129d771d2e09a3c0"
+    "hash": "96ba385a7d9053a7fa424d4625658199"
   },
   {
     "file": "app/bundle-libs.js",
@@ -285,7 +285,7 @@
   },
   {
     "file": "app/router.min.js",
-    "hash": "d319d87743cbadf2fdedc699ce513281"
+    "hash": "d227bda610b45bb38208739033ff928b"
   },
   {
     "file": "app/services/chcp.min.js",
@@ -325,95 +325,7 @@
   },
   {
     "file": "index.html",
-    "hash": "92d1d6e5bd7378375ebc4cb4dcf27d19"
-  },
-  {
-    "file": "lib/iconfont-icon-addon/demo_fontclass.html",
-    "hash": "914d617cdbd56bb607c31997b37ad19c"
-  },
-  {
-    "file": "lib/iconfont-icon-addon/demo_symbol.html",
-    "hash": "cb9936705ef101a5cf2ad87c22efb379"
-  },
-  {
-    "file": "lib/iconfont-icon-addon/demo_unicode.html",
-    "hash": "1c21abca9eb46b039df9aa2adca158db"
-  },
-  {
-    "file": "lib/iconfont-icon-addon/demo.css",
-    "hash": "4b4695a719f5cad95de26a9e79d0878e"
-  },
-  {
-    "file": "lib/iconfont-icon-addon/iconfont.css",
-    "hash": "73f180f8113d3d0b851370e1b624e530"
-  },
-  {
-    "file": "lib/iconfont-icon-addon/iconfont.eot",
-    "hash": "5a24d6e2efc03bbc6a1c7abf90bbf38c"
-  },
-  {
-    "file": "lib/iconfont-icon-addon/iconfont.js",
-    "hash": "9f785f06d2f6c992f81e775cc771682c"
-  },
-  {
-    "file": "lib/iconfont-icon-addon/iconfont.svg",
-    "hash": "20a486f4bee1af567f7343e5eee99bd7"
-  },
-  {
-    "file": "lib/iconfont-icon-addon/iconfont.ttf",
-    "hash": "202b8d6491a74bf7f746cd76e58e560c"
-  },
-  {
-    "file": "lib/iconfont-icon-addon/iconfont.woff",
-    "hash": "6447b7924fe7db11442a68939cb1c0b3"
-  },
-  {
-    "file": "lib/iconfont-icon-app/demo_fontclass.html",
-    "hash": "faafda9bd0ffc4f3a49463880f4cae8d"
-  },
-  {
-    "file": "lib/iconfont-icon-app/demo_symbol.html",
-    "hash": "b417112bf795cb8f5eaf24e250e9410d"
-  },
-  {
-    "file": "lib/iconfont-icon-app/demo_unicode.html",
-    "hash": "177e21eb883522fe47fa136b5696d14e"
-  },
-  {
-    "file": "lib/iconfont-icon-app/demo.css",
-    "hash": "4b4695a719f5cad95de26a9e79d0878e"
-  },
-  {
-    "file": "lib/iconfont-icon-app/iconfont.css",
-    "hash": "a8f3d6537c16bc95e611538b39c7c899"
-  },
-  {
-    "file": "lib/iconfont-icon-app/iconfont.eot",
-    "hash": "57da1ae6d22bfe8f47b8128f2c531355"
-  },
-  {
-    "file": "lib/iconfont-icon-app/iconfont.js",
-    "hash": "9d17d02e60ec84d0432948a10a5f5298"
-  },
-  {
-    "file": "lib/iconfont-icon-app/iconfont.svg",
-    "hash": "24ab88c0465cc3b087ec9fbe909481eb"
-  },
-  {
-    "file": "lib/iconfont-icon-app/iconfont.ttf",
-    "hash": "35934982e491dde39907d83f4ce0605e"
-  },
-  {
-    "file": "lib/iconfont-icon-app/iconfont.woff",
-    "hash": "210535eb6497309a300fe82629627245"
-  },
-  {
-    "file": "lib/pingpp-js-2.1.9/alipay_in_weixin/pay.htm",
-    "hash": "91f981155cc76ea86341d3517b9b9e5d"
-  },
-  {
-    "file": "lib/pingpp-js-2.1.9/pingpp.js",
-    "hash": "7ad34587f3dae919adab833fe71d05de"
+    "hash": "12893b5d5bb91d75e317b95fb8558325"
   },
   {
     "file": "libs/angular-utf8-base64-0.0.5/angular-utf8-base64.min.js",
@@ -426,5 +338,93 @@
   {
     "file": "robots.txt",
     "hash": "9152d7f1724ed8fbcd2e0c87029f193c"
+  },
+  {
+    "file": "static/iconfont-icon-addon/demo_fontclass.html",
+    "hash": "914d617cdbd56bb607c31997b37ad19c"
+  },
+  {
+    "file": "static/iconfont-icon-addon/demo_symbol.html",
+    "hash": "cb9936705ef101a5cf2ad87c22efb379"
+  },
+  {
+    "file": "static/iconfont-icon-addon/demo_unicode.html",
+    "hash": "1c21abca9eb46b039df9aa2adca158db"
+  },
+  {
+    "file": "static/iconfont-icon-addon/demo.css",
+    "hash": "4b4695a719f5cad95de26a9e79d0878e"
+  },
+  {
+    "file": "static/iconfont-icon-addon/iconfont.css",
+    "hash": "73f180f8113d3d0b851370e1b624e530"
+  },
+  {
+    "file": "static/iconfont-icon-addon/iconfont.eot",
+    "hash": "5a24d6e2efc03bbc6a1c7abf90bbf38c"
+  },
+  {
+    "file": "static/iconfont-icon-addon/iconfont.js",
+    "hash": "9f785f06d2f6c992f81e775cc771682c"
+  },
+  {
+    "file": "static/iconfont-icon-addon/iconfont.svg",
+    "hash": "20a486f4bee1af567f7343e5eee99bd7"
+  },
+  {
+    "file": "static/iconfont-icon-addon/iconfont.ttf",
+    "hash": "202b8d6491a74bf7f746cd76e58e560c"
+  },
+  {
+    "file": "static/iconfont-icon-addon/iconfont.woff",
+    "hash": "6447b7924fe7db11442a68939cb1c0b3"
+  },
+  {
+    "file": "static/iconfont-icon-app/demo_fontclass.html",
+    "hash": "faafda9bd0ffc4f3a49463880f4cae8d"
+  },
+  {
+    "file": "static/iconfont-icon-app/demo_symbol.html",
+    "hash": "b417112bf795cb8f5eaf24e250e9410d"
+  },
+  {
+    "file": "static/iconfont-icon-app/demo_unicode.html",
+    "hash": "177e21eb883522fe47fa136b5696d14e"
+  },
+  {
+    "file": "static/iconfont-icon-app/demo.css",
+    "hash": "4b4695a719f5cad95de26a9e79d0878e"
+  },
+  {
+    "file": "static/iconfont-icon-app/iconfont.css",
+    "hash": "a8f3d6537c16bc95e611538b39c7c899"
+  },
+  {
+    "file": "static/iconfont-icon-app/iconfont.eot",
+    "hash": "57da1ae6d22bfe8f47b8128f2c531355"
+  },
+  {
+    "file": "static/iconfont-icon-app/iconfont.js",
+    "hash": "9d17d02e60ec84d0432948a10a5f5298"
+  },
+  {
+    "file": "static/iconfont-icon-app/iconfont.svg",
+    "hash": "24ab88c0465cc3b087ec9fbe909481eb"
+  },
+  {
+    "file": "static/iconfont-icon-app/iconfont.ttf",
+    "hash": "35934982e491dde39907d83f4ce0605e"
+  },
+  {
+    "file": "static/iconfont-icon-app/iconfont.woff",
+    "hash": "210535eb6497309a300fe82629627245"
+  },
+  {
+    "file": "static/pingpp-js-2.1.9/alipay_in_weixin/pay.htm",
+    "hash": "91f981155cc76ea86341d3517b9b9e5d"
+  },
+  {
+    "file": "static/pingpp-js-2.1.9/pingpp.js",
+    "hash": "7ad34587f3dae919adab833fe71d05de"
   }
 ]
