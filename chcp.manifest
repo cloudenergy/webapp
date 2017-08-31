@@ -17,7 +17,7 @@
   },
   {
     "file": "app/bundle-app.js",
-    "hash": "96ba385a7d9053a7fa424d4625658199"
+    "hash": "32cb7d48fd06095b32344bb044a6a0cc"
   },
   {
     "file": "app/bundle-libs.js",
@@ -149,7 +149,7 @@
   },
   {
     "file": "app/modules/index/index.html",
-    "hash": "74c7c9eb6af3ef0cd6881759d86f3a6d"
+    "hash": "35af600bdde350c0ceaa44af1d5515bc"
   },
   {
     "file": "app/modules/index/index.min.css",
@@ -285,7 +285,7 @@
   },
   {
     "file": "app/router.min.js",
-    "hash": "d227bda610b45bb38208739033ff928b"
+    "hash": "9c2123c901512b48e5e8c54e7049ef52"
   },
   {
     "file": "app/services/chcp.min.js",
@@ -325,7 +325,7 @@
   },
   {
     "file": "index.html",
-    "hash": "23db7d207c205aa951fdefd3f4e315fb"
+    "hash": "f5326f7be6e30af2681bb6afc92c8d53"
   },
   {
     "file": "libs/angular-utf8-base64-0.0.5/angular-utf8-base64.min.js",
@@ -420,11 +420,11 @@
     "hash": "210535eb6497309a300fe82629627245"
   },
   {
-    "file": "static/pingpp-js-2.1.9/alipay_in_weixin/pay.htm",
+    "file": "static/pingpp-js-2.1.13/alipay_in_weixin/pay.htm",
     "hash": "91f981155cc76ea86341d3517b9b9e5d"
   },
   {
-    "file": "static/pingpp-js-2.1.9/pingpp.js",
-    "hash": "7ad34587f3dae919adab833fe71d05de"
+    "file": "static/pingpp-js-2.1.13/pingpp.js",
+    "hash": "e1986fc515f45e05d3294f3b48fbfe87"
   }
 ]
