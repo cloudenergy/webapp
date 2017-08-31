@@ -17,7 +17,7 @@
   },
   {
     "file": "app/bundle-app.js",
-    "hash": "2e345a8f355c425ad9f96bcb64ddba44"
+    "hash": "716099d98f0ca1a72942169df5cfd0fd"
   },
   {
     "file": "app/bundle-libs.js",
@@ -213,7 +213,7 @@
   },
   {
     "file": "app/modules/recharge/recharge.min.js",
-    "hash": "3218d16f454287589c2638d436725161"
+    "hash": "0b6cc5d94448e1eb79f4bbe27ab7ed43"
   },
   {
     "file": "app/modules/repair/detail.html",
@@ -285,7 +285,7 @@
   },
   {
     "file": "app/router.min.js",
-    "hash": "c77224d03bab5c79a582b03ac1de9450"
+    "hash": "4877a2395e79c7961ac5c77391458065"
   },
   {
     "file": "app/services/chcp.min.js",
@@ -325,7 +325,7 @@
   },
   {
     "file": "index.html",
-    "hash": "4fe834729e8c9c5c09976236d2d7747f"
+    "hash": "727b11c770397369f555284bc418e1b2"
   },
   {
     "file": "libs/angular-utf8-base64-0.0.5/angular-utf8-base64.min.js",
