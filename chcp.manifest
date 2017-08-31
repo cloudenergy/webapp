@@ -1,7 +1,7 @@
 [
   {
     "file": "app/api.min.js",
-    "hash": "6ae219b42240a4f0660092a7cf441a6f"
+    "hash": "9606da1d0b29c961a3a0d170312876f7"
   },
   {
     "file": "app/app.min.css",
@@ -17,7 +17,7 @@
   },
   {
     "file": "app/bundle-app.js",
-    "hash": "ca43d03a86f8e57397ddf0b686fdb490"
+    "hash": "6652f3f4ccdc4e71a5aba4f6cdfa202d"
   },
   {
     "file": "app/bundle-libs.js",
@@ -157,7 +157,7 @@
   },
   {
     "file": "app/modules/index/index.min.js",
-    "hash": "6ba7f6f039e8f25c7bb3166fc6a46681"
+    "hash": "55209e0707ebd0c328657b3585dd3e08"
   },
   {
     "file": "app/modules/login/img/login-bg.jpg",
@@ -189,7 +189,7 @@
   },
   {
     "file": "app/modules/recharge/channel.html",
-    "hash": "671ec98d7426bd41222133839f41d6b6"
+    "hash": "4890ac87da0f3a3938af3e5104669bec"
   },
   {
     "file": "app/modules/recharge/channel.min.js",
@@ -213,23 +213,19 @@
   },
   {
     "file": "app/modules/recharge/recharge.min.js",
-    "hash": "be31979281dfe64a8e3bcf7d98eaeb90"
+    "hash": "f2c0f9c73a2f62388fb68eda2ebd1a59"
   },
   {
     "file": "app/modules/repair/detail.html",
-    "hash": "b141d8e3120eb01b479799ea5bc1c158"
+    "hash": "42051a36a2502ec44c12cbf68d6451a6"
   },
   {
     "file": "app/modules/repair/repair.html",
-    "hash": "0bba3ffc2ad469c87bdb900154631322"
-  },
-  {
-    "file": "app/modules/repair/repair.min.css",
-    "hash": "acefb68cb26f1d863155fdbee409f68b"
+    "hash": "228857f2512d50e656a06ad8a47df838"
   },
   {
     "file": "app/modules/repair/repair.min.js",
-    "hash": "7ad670f4522ab57529b01d9a8ce16bbe"
+    "hash": "ef6d951d71f84e99fdc465690e23d97b"
   },
   {
     "file": "app/modules/welcome/img/1.jpg",
@@ -289,7 +285,7 @@
   },
   {
     "file": "app/router.min.js",
-    "hash": "737f111c8e4e522b04e2b05a8f66eb6e"
+    "hash": "2f2ae85c4c39ab988987e1727380097a"
   },
   {
     "file": "app/services/chcp.min.js",
@@ -329,7 +325,7 @@
   },
   {
     "file": "index.html",
-    "hash": "a8c301968e951428a23724e44a2c6866"
+    "hash": "c21d6085cc0759faf001cb204b842b39"
   },
   {
     "file": "lib/iconfont-icon-addon/demo_fontclass.html",
@@ -418,6 +414,14 @@
   {
     "file": "lib/pingpp-js-2.1.9/pingpp.js",
     "hash": "7ad34587f3dae919adab833fe71d05de"
+  },
+  {
+    "file": "libs/angular-utf8-base64-0.0.5/angular-utf8-base64.min.js",
+    "hash": "2888027fe317c18dcfe413acc96db9bf"
+  },
+  {
+    "file": "libs/ng-file-upload-12.2.13/ng-file-upload.min.js",
+    "hash": "b465220e106409f10e4b9e7c4ae7066c"
   },
   {
     "file": "robots.txt",
