@@ -8,8 +8,8 @@
             <div class="item item-input item-floating-label" ng-repeat="item in $ctrl.content.repairImgs">
                 <span class="input-label text-subdued">base64</span>
                 <p class="padding-top">
-                    <a href=""></a>
-                    <img ng-src="{{item}}">
+                    <a ng-href="{{item.data}}" download="{{item.name}}">
+                    <img class="full-image" ng-src="{{item.data}}"></a>
                 </p>
             </div>
             <div class="item item-input item-floating-label">
