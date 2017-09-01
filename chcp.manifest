@@ -17,7 +17,7 @@
   },
   {
     "file": "app/bundle-app.js",
-    "hash": "5afd651084521f79c4b4e18de6a37af4"
+    "hash": "0fcd68d7632fed6f3186ceb9ecd82a0a"
   },
   {
     "file": "app/bundle-libs.js",
@@ -225,7 +225,7 @@
   },
   {
     "file": "app/modules/repair/repair.min.js",
-    "hash": "6f3b385c99af39c816c2a8767a0351d9"
+    "hash": "9406a14c4ac6e9cb205997ab82a81578"
   },
   {
     "file": "app/modules/welcome/img/1.jpg",
@@ -285,7 +285,7 @@
   },
   {
     "file": "app/router.min.js",
-    "hash": "2aeed5eeb290f775adc14567472e3692"
+    "hash": "adc26d9666cf09497e4d359abe5f28a0"
   },
   {
     "file": "app/services/chcp.min.js",
@@ -325,7 +325,7 @@
   },
   {
     "file": "index.html",
-    "hash": "c2fd5b1e98a64cf4d8fac2e2a40bea6e"
+    "hash": "e06db9a2f41a785b18453e1831c86335"
   },
   {
     "file": "libs/angular-utf8-base64-0.0.5/angular-utf8-base64.min.js",
