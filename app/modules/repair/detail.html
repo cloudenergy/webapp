@@ -12,11 +12,11 @@
             </div>
             <div class="item item-input item-floating-label">
                 <span class="input-label text-subdued">报修物品</span>
-                <input type="text" placeholder="报修物品" ng-model="$ctrl.data.content.repairName">
+                <input type="text" placeholder="报修物品" ng-model="$ctrl.data.content.repairName" maxlength="120">
             </div>
             <div class="item item-input item-floating-label">
                 <span class="input-label text-subdued">故障位置</span>
-                <input type="text" placeholder="故障位置" ng-model="$ctrl.data.content.repairPlace">
+                <input type="text" placeholder="故障位置" ng-model="$ctrl.data.content.repairPlace" maxlength="120">
             </div>
             <div class="item item-input item-floating-label">
                 <span class="input-label text-subdued">故障描述<small>（限120个字）</small></span>
@@ -24,11 +24,11 @@
             </div>
             <div class="item item-input item-floating-label">
                 <span class="input-label text-subdued">联系人</span>
-                <input type="text" placeholder="联系人" ng-model="$ctrl.data.content.repairPerson">
+                <input type="text" placeholder="联系人" ng-model="$ctrl.data.content.repairPerson" maxlength="60">
             </div>
             <div class="item item-input item-floating-label">
                 <span class="input-label text-subdued">联系电话</span>
-                <input type="text" placeholder="联系电话" ng-model="$ctrl.data.content.repairPhone" ng-pattern="/^1[3,5-8]\d{9}$/">
+                <input type="text" placeholder="联系电话" ng-model="$ctrl.data.content.repairPhone" maxlength="15" ng-pattern="/^1[3,5-8]\d{9}$/">
             </div>
         </div>
         <div class="list" ng-if="$ctrl.data.id">
