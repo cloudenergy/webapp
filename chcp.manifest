@@ -17,7 +17,7 @@
   },
   {
     "file": "app/bundle-app.js",
-    "hash": "0fcd68d7632fed6f3186ceb9ecd82a0a"
+    "hash": "dcaf339ec33d67c94c3ccca3f4c9be34"
   },
   {
     "file": "app/bundle-libs.js",
@@ -69,15 +69,15 @@
   },
   {
     "file": "app/modules/account/account.min.js",
-    "hash": "d39652901dfd41921d3353f65ce49b7a"
+    "hash": "b76a15b07c053c5dea78111f952de2ac"
   },
   {
     "file": "app/modules/account/edit.html",
-    "hash": "e2adecd322fb9ae9a2e1a5e30dbae8b4"
+    "hash": "2e47d3f5811f6f8851cf4d1923be8cc1"
   },
   {
     "file": "app/modules/account/password.html",
-    "hash": "f04807479174196343797dfcdc60be97"
+    "hash": "671c451d203d6eff7ef3efcd6b571c5c"
   },
   {
     "file": "app/modules/bind/bind.html",
@@ -217,7 +217,7 @@
   },
   {
     "file": "app/modules/repair/detail.html",
-    "hash": "4028204c01994be661a9275d9c795fc8"
+    "hash": "ee9dc02a248b580af6c7ad08d2bb4784"
   },
   {
     "file": "app/modules/repair/repair.html",
@@ -225,7 +225,7 @@
   },
   {
     "file": "app/modules/repair/repair.min.js",
-    "hash": "9406a14c4ac6e9cb205997ab82a81578"
+    "hash": "e432e9535ceef61d27360c05de0b4e4e"
   },
   {
     "file": "app/modules/welcome/img/1.jpg",
@@ -285,7 +285,7 @@
   },
   {
     "file": "app/router.min.js",
-    "hash": "adc26d9666cf09497e4d359abe5f28a0"
+    "hash": "24d9ca90bb5438408c9f8baf4f3f8c94"
   },
   {
     "file": "app/services/chcp.min.js",
@@ -325,7 +325,7 @@
   },
   {
     "file": "index.html",
-    "hash": "e06db9a2f41a785b18453e1831c86335"
+    "hash": "9816f2be03afe21fe245f5649df5fab0"
   },
   {
     "file": "libs/angular-utf8-base64-0.0.5/angular-utf8-base64.min.js",
