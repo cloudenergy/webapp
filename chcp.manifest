@@ -17,7 +17,7 @@
   },
   {
     "file": "app/bundle-app.js",
-    "hash": "6b44dccffe4f1a15e8418ee46b208b32"
+    "hash": "ad483ac1c50e9d6eb2377393684a0a0a"
   },
   {
     "file": "app/bundle-libs.js",
@@ -217,7 +217,7 @@
   },
   {
     "file": "app/modules/repair/detail.html",
-    "hash": "34567b1d212f6accccd0a032efb9b0ea"
+    "hash": "4028204c01994be661a9275d9c795fc8"
   },
   {
     "file": "app/modules/repair/repair.html",
@@ -225,7 +225,7 @@
   },
   {
     "file": "app/modules/repair/repair.min.js",
-    "hash": "4ac4704e950b67e5da823aa604b09ea1"
+    "hash": "b6ee8570c02fdde84bc7f6ad3fcfaac9"
   },
   {
     "file": "app/modules/welcome/img/1.jpg",
@@ -285,7 +285,7 @@
   },
   {
     "file": "app/router.min.js",
-    "hash": "daf6129dba66038ee7e29a6026d39e22"
+    "hash": "052ae16e4648bed3a9362c3da2a9a8db"
   },
   {
     "file": "app/services/chcp.min.js",
@@ -325,7 +325,7 @@
   },
   {
     "file": "index.html",
-    "hash": "8faef36bb4f912458d4793bc616ff400"
+    "hash": "1fe3d0164a3f35b414d5aad29240a1e3"
   },
   {
     "file": "libs/angular-utf8-base64-0.0.5/angular-utf8-base64.min.js",
