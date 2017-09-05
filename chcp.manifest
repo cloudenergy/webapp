@@ -1,11 +1,11 @@
 [
   {
     "file": "app/api.min.js",
-    "hash": "2a049f52d50dd136d823b3124f37286b"
+    "hash": "42ea80371db5a749991f7cc321982069"
   },
   {
     "file": "app/app.min.css",
-    "hash": "383db12c9ae3458891314ed47daf7d7e"
+    "hash": "36c97334cd888e5ee6ea14836f2bade9"
   },
   {
     "file": "app/app.min.js",
@@ -13,11 +13,11 @@
   },
   {
     "file": "app/bundle-app.css",
-    "hash": "7678911a6178ef34bfaab9c2fd523cc1"
+    "hash": "bab26b9590e6a25a19f95fe8322cdf38"
   },
   {
     "file": "app/bundle-app.js",
-    "hash": "82364eacacfa798e03c369378159a560"
+    "hash": "457f2751212d56d659531e9de3d5d464"
   },
   {
     "file": "app/bundle-libs.js",
@@ -69,15 +69,15 @@
   },
   {
     "file": "app/modules/account/account.min.js",
-    "hash": "b76a15b07c053c5dea78111f952de2ac"
+    "hash": "32c2595a0c1661eda3f0d476e614eaf6"
   },
   {
     "file": "app/modules/account/edit.html",
-    "hash": "2e47d3f5811f6f8851cf4d1923be8cc1"
+    "hash": "3e7bba0f1d4a29cc89e4dccd350e7597"
   },
   {
     "file": "app/modules/account/password.html",
-    "hash": "671c451d203d6eff7ef3efcd6b571c5c"
+    "hash": "ccb1b2c59906add1e06425d72753222e"
   },
   {
     "file": "app/modules/bind/bind.html",
@@ -93,7 +93,7 @@
   },
   {
     "file": "app/modules/device/device.html",
-    "hash": "8b6347f10cc9873ccc81e116b8c192bf"
+    "hash": "b380a11bff96e2d83aee0b633ff734c0"
   },
   {
     "file": "app/modules/device/device.min.css",
@@ -105,7 +105,7 @@
   },
   {
     "file": "app/modules/device/month.html",
-    "hash": "867d7c8046af41fb101dcc5b9bad47d4"
+    "hash": "3e994b957869eaadee2adbb780b428b5"
   },
   {
     "file": "app/modules/device/month.min.js",
@@ -113,7 +113,7 @@
   },
   {
     "file": "app/modules/device/sensor.html",
-    "hash": "b3e07b1b51f2fb19e89fb98a5aebb979"
+    "hash": "eade8b5b450c2a0a14dccd04253846b7"
   },
   {
     "file": "app/modules/device/sensor.min.css",
@@ -133,7 +133,7 @@
   },
   {
     "file": "app/modules/fee/fee.html",
-    "hash": "c131a255fb0a29e89d0ebe75ec252892"
+    "hash": "11a27414f402a8acae7d2c37a9267497"
   },
   {
     "file": "app/modules/fee/fee.min.js",
@@ -141,7 +141,7 @@
   },
   {
     "file": "app/modules/iframe/iframe.html",
-    "hash": "f9ee42b91851b10b0b250eb7d48bd049"
+    "hash": "c3bbdf2c5c2cb7036c44713e5375718a"
   },
   {
     "file": "app/modules/iframe/iframe.min.js",
@@ -177,7 +177,7 @@
   },
   {
     "file": "app/modules/notification/notification.html",
-    "hash": "bd5b1dba37ba7f6967cbfb64e7df5ed6"
+    "hash": "3c04b2b0ef8ba842359f96af59633f26"
   },
   {
     "file": "app/modules/notification/notification.min.css",
@@ -189,7 +189,7 @@
   },
   {
     "file": "app/modules/recharge/channel.html",
-    "hash": "4890ac87da0f3a3938af3e5104669bec"
+    "hash": "e0e975283136c779a357b21355927f88"
   },
   {
     "file": "app/modules/recharge/channel.min.js",
@@ -197,7 +197,7 @@
   },
   {
     "file": "app/modules/recharge/log.html",
-    "hash": "94db029985bc93b79d5e53ae51413ac6"
+    "hash": "42ea72a7bb6e801c40e0725af3d54674"
   },
   {
     "file": "app/modules/recharge/log.min.js",
@@ -217,15 +217,27 @@
   },
   {
     "file": "app/modules/repair/detail.html",
-    "hash": "b12f2c01df8733ad6c6137795cda5e0c"
+    "hash": "1fe711de481f77cf5e41a2750bcfc3dc"
+  },
+  {
+    "file": "app/modules/repair/detail.min.js",
+    "hash": "9d38c12e873c761877449653101fd723"
+  },
+  {
+    "file": "app/modules/repair/preview.html",
+    "hash": "abd7e37d8e43ce2781c176343a636806"
+  },
+  {
+    "file": "app/modules/repair/preview.min.js",
+    "hash": "0a9df2e38dac0aa0fcf072825a650f09"
   },
   {
     "file": "app/modules/repair/repair.html",
-    "hash": "228857f2512d50e656a06ad8a47df838"
+    "hash": "c57413d94ddd6e06572732ef35f02620"
   },
   {
     "file": "app/modules/repair/repair.min.js",
-    "hash": "eaceb7a5c1303deb0fb65f31934e5085"
+    "hash": "a206eebe9c901c781bf96d5a68f5b6ce"
   },
   {
     "file": "app/modules/welcome/img/1.jpg",
@@ -273,11 +285,7 @@
   },
   {
     "file": "app/modules/welcome/welcome.html",
-    "hash": "4034331f779a3b04042c630c84df5bca"
-  },
-  {
-    "file": "app/modules/welcome/welcome.min.css",
-    "hash": "1001d05198fcbf76847f81cdc7e12b37"
+    "hash": "7a88358a39dc7ea1624a6512b7164126"
   },
   {
     "file": "app/modules/welcome/welcome.min.js",
@@ -285,11 +293,11 @@
   },
   {
     "file": "app/router.min.js",
-    "hash": "1824c0bbfc0e4bfd77a87b9536beb160"
+    "hash": "138021c70e15b3ca2705649389657f9e"
   },
   {
     "file": "app/services/chcp.min.js",
-    "hash": "35e9b3bcd278d9b96e947a720f8920ab"
+    "hash": "e99f5af8351c394368b913e1b10faa4e"
   },
   {
     "file": "app/services/fundebug.min.js",
@@ -297,7 +305,7 @@
   },
   {
     "file": "app/services/jpush.min.js",
-    "hash": "edbfff9be43d14364cc0aae2675db281"
+    "hash": "fa56fb70eb9444e1755b0be77dd66fc7"
   },
   {
     "file": "app/services/message.min.js",
@@ -325,7 +333,7 @@
   },
   {
     "file": "index.html",
-    "hash": "1bce31d9ed8f272e2880067c4be2fe02"
+    "hash": "d0422d8524adab4734e635b58a3b49c5"
   },
   {
     "file": "libs/angular-utf8-base64-0.0.5/angular-utf8-base64.min.js",
@@ -381,15 +389,15 @@
   },
   {
     "file": "static/iconfont-icon-app/demo_fontclass.html",
-    "hash": "faafda9bd0ffc4f3a49463880f4cae8d"
+    "hash": "28151d6bf052870a25502080efefe5c0"
   },
   {
     "file": "static/iconfont-icon-app/demo_symbol.html",
-    "hash": "b417112bf795cb8f5eaf24e250e9410d"
+    "hash": "f0a1338ebb7c04cdf36dda162ea77e0c"
   },
   {
     "file": "static/iconfont-icon-app/demo_unicode.html",
-    "hash": "177e21eb883522fe47fa136b5696d14e"
+    "hash": "9b6761e5f64a5379f6f1929c031c4ca6"
   },
   {
     "file": "static/iconfont-icon-app/demo.css",
@@ -397,27 +405,27 @@
   },
   {
     "file": "static/iconfont-icon-app/iconfont.css",
-    "hash": "a8f3d6537c16bc95e611538b39c7c899"
+    "hash": "1837d2ddf22451739d4c53315ffeebfa"
   },
   {
     "file": "static/iconfont-icon-app/iconfont.eot",
-    "hash": "57da1ae6d22bfe8f47b8128f2c531355"
+    "hash": "6ad2689d4bd5d1945d9a25a3023895d1"
   },
   {
     "file": "static/iconfont-icon-app/iconfont.js",
-    "hash": "9d17d02e60ec84d0432948a10a5f5298"
+    "hash": "007ef5d76b25ca4c808794e2989ba71e"
   },
   {
     "file": "static/iconfont-icon-app/iconfont.svg",
-    "hash": "24ab88c0465cc3b087ec9fbe909481eb"
+    "hash": "20459db56066c29a632d9c199158a9b3"
   },
   {
     "file": "static/iconfont-icon-app/iconfont.ttf",
-    "hash": "35934982e491dde39907d83f4ce0605e"
+    "hash": "3edd31f2dcd536dc7c829b4ca56e6a47"
   },
   {
     "file": "static/iconfont-icon-app/iconfont.woff",
-    "hash": "210535eb6497309a300fe82629627245"
+    "hash": "ecfaf54ed5d9e200f1e38f2f31924d82"
   },
   {
     "file": "static/pingpp-js-2.1.13/alipay_in_weixin/pay.htm",
