@@ -17,7 +17,7 @@
   },
   {
     "file": "app/bundle-app.js",
-    "hash": "457f2751212d56d659531e9de3d5d464"
+    "hash": "e68298f21967427d354928ce9c153241"
   },
   {
     "file": "app/bundle-libs.js",
@@ -149,7 +149,7 @@
   },
   {
     "file": "app/modules/index/index.html",
-    "hash": "74c7c9eb6af3ef0cd6881759d86f3a6d"
+    "hash": "841b2165bade813ee9420dfdbe377fff"
   },
   {
     "file": "app/modules/index/index.min.css",
@@ -217,19 +217,23 @@
   },
   {
     "file": "app/modules/repair/detail.html",
-    "hash": "1fe711de481f77cf5e41a2750bcfc3dc"
+    "hash": "0953ccefb8b811824b894af912d5379e"
+  },
+  {
+    "file": "app/modules/repair/detail.min.css",
+    "hash": "d0256028f778beac2d5d0830f0b44250"
   },
   {
     "file": "app/modules/repair/detail.min.js",
-    "hash": "9d38c12e873c761877449653101fd723"
+    "hash": "96f37a9e8b3f1b734c562e17b0935c77"
   },
   {
     "file": "app/modules/repair/preview.html",
-    "hash": "abd7e37d8e43ce2781c176343a636806"
+    "hash": "ec3eb7ea01ffad83138014e5132c27bf"
   },
   {
     "file": "app/modules/repair/preview.min.js",
-    "hash": "0a9df2e38dac0aa0fcf072825a650f09"
+    "hash": "18f9f109706011e92680d513e38ee84d"
   },
   {
     "file": "app/modules/repair/repair.html",
@@ -237,7 +241,7 @@
   },
   {
     "file": "app/modules/repair/repair.min.js",
-    "hash": "a206eebe9c901c781bf96d5a68f5b6ce"
+    "hash": "678471f7f5680b3cda63eaa5e98fded7"
   },
   {
     "file": "app/modules/welcome/img/1.jpg",
@@ -293,19 +297,19 @@
   },
   {
     "file": "app/router.min.js",
-    "hash": "138021c70e15b3ca2705649389657f9e"
+    "hash": "cac1d4f5a726b0e86047dd18a21a1a06"
   },
   {
     "file": "app/services/chcp.min.js",
-    "hash": "e99f5af8351c394368b913e1b10faa4e"
+    "hash": "ab6a91f620891d74bcef08c7f00775a5"
   },
   {
     "file": "app/services/fundebug.min.js",
-    "hash": "ad3583ffc323186498334bd04daab4d8"
+    "hash": "b10dfda47c44d00a3a7e56fa17300dfa"
   },
   {
     "file": "app/services/jpush.min.js",
-    "hash": "fa56fb70eb9444e1755b0be77dd66fc7"
+    "hash": "edbfff9be43d14364cc0aae2675db281"
   },
   {
     "file": "app/services/message.min.js",
@@ -333,7 +337,7 @@
   },
   {
     "file": "index.html",
-    "hash": "d0422d8524adab4734e635b58a3b49c5"
+    "hash": "e75269a01433c2b8f88020d0eea63db6"
   },
   {
     "file": "libs/angular-utf8-base64-0.0.5/angular-utf8-base64.min.js",
