@@ -17,7 +17,7 @@
   },
   {
     "file": "app/bundle-app.js",
-    "hash": "e68298f21967427d354928ce9c153241"
+    "hash": "39c074ad2f3cdad6f5360c6a54942184"
   },
   {
     "file": "app/bundle-libs.js",
@@ -149,7 +149,7 @@
   },
   {
     "file": "app/modules/index/index.html",
-    "hash": "841b2165bade813ee9420dfdbe377fff"
+    "hash": "458f10560b306fb6132d489f3f51690e"
   },
   {
     "file": "app/modules/index/index.min.css",
@@ -225,7 +225,7 @@
   },
   {
     "file": "app/modules/repair/detail.min.js",
-    "hash": "96f37a9e8b3f1b734c562e17b0935c77"
+    "hash": "09421c5701050c0c3be0a1e3ed01ae70"
   },
   {
     "file": "app/modules/repair/preview.html",
@@ -297,11 +297,11 @@
   },
   {
     "file": "app/router.min.js",
-    "hash": "cac1d4f5a726b0e86047dd18a21a1a06"
+    "hash": "201d8a1050fe355d8c99bba4fda51b2a"
   },
   {
     "file": "app/services/chcp.min.js",
-    "hash": "ab6a91f620891d74bcef08c7f00775a5"
+    "hash": "35e9b3bcd278d9b96e947a720f8920ab"
   },
   {
     "file": "app/services/fundebug.min.js",
@@ -337,15 +337,7 @@
   },
   {
     "file": "index.html",
-    "hash": "e75269a01433c2b8f88020d0eea63db6"
-  },
-  {
-    "file": "libs/angular-utf8-base64-0.0.5/angular-utf8-base64.min.js",
-    "hash": "2888027fe317c18dcfe413acc96db9bf"
-  },
-  {
-    "file": "libs/ng-file-upload-12.2.13/ng-file-upload.min.js",
-    "hash": "b465220e106409f10e4b9e7c4ae7066c"
+    "hash": "54d9c41136cb9677896c6cdecd490c4c"
   },
   {
     "file": "robots.txt",
