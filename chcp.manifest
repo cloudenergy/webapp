@@ -17,7 +17,7 @@
   },
   {
     "file": "app/bundle-app.js",
-    "hash": "39c074ad2f3cdad6f5360c6a54942184"
+    "hash": "92a45016348cd96a598ebed413315a76"
   },
   {
     "file": "app/bundle-libs.js",
@@ -193,7 +193,7 @@
   },
   {
     "file": "app/modules/recharge/channel.min.js",
-    "hash": "e76f0572ea80ad65e5e7b3a652c70af6"
+    "hash": "f8abd81ed4ef60631054914209cade8e"
   },
   {
     "file": "app/modules/recharge/log.html",
@@ -297,7 +297,7 @@
   },
   {
     "file": "app/router.min.js",
-    "hash": "201d8a1050fe355d8c99bba4fda51b2a"
+    "hash": "c64738d179aae6939c1e419d1e60e700"
   },
   {
     "file": "app/services/chcp.min.js",
@@ -317,7 +317,7 @@
   },
   {
     "file": "app/services/storage.min.js",
-    "hash": "f8de183960e6f0f2abf09d090161c417"
+    "hash": "63fccdc4f8c8f9cab0131e007c9a7f64"
   },
   {
     "file": "app/services/user.min.js",
@@ -337,7 +337,7 @@
   },
   {
     "file": "index.html",
-    "hash": "54d9c41136cb9677896c6cdecd490c4c"
+    "hash": "4424f8fd667ed6a699f71a0e3ee261e0"
   },
   {
     "file": "robots.txt",
