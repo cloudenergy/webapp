@@ -1,11 +1,11 @@
 [
   {
     "file": "app/api.min.js",
-    "hash": "6ae219b42240a4f0660092a7cf441a6f"
+    "hash": "42ea80371db5a749991f7cc321982069"
   },
   {
     "file": "app/app.min.css",
-    "hash": "383db12c9ae3458891314ed47daf7d7e"
+    "hash": "36c97334cd888e5ee6ea14836f2bade9"
   },
   {
     "file": "app/app.min.js",
@@ -13,11 +13,11 @@
   },
   {
     "file": "app/bundle-app.css",
-    "hash": "7678911a6178ef34bfaab9c2fd523cc1"
+    "hash": "bab26b9590e6a25a19f95fe8322cdf38"
   },
   {
     "file": "app/bundle-app.js",
-    "hash": "956be8a486be8a5255ea9ba29d9cd144"
+    "hash": "f7ae63b9a80ac14f16ab9799aeefc694"
   },
   {
     "file": "app/bundle-libs.js",
@@ -69,15 +69,15 @@
   },
   {
     "file": "app/modules/account/account.min.js",
-    "hash": "d39652901dfd41921d3353f65ce49b7a"
+    "hash": "32c2595a0c1661eda3f0d476e614eaf6"
   },
   {
     "file": "app/modules/account/edit.html",
-    "hash": "e2adecd322fb9ae9a2e1a5e30dbae8b4"
+    "hash": "3e7bba0f1d4a29cc89e4dccd350e7597"
   },
   {
     "file": "app/modules/account/password.html",
-    "hash": "f04807479174196343797dfcdc60be97"
+    "hash": "ccb1b2c59906add1e06425d72753222e"
   },
   {
     "file": "app/modules/bind/bind.html",
@@ -93,7 +93,7 @@
   },
   {
     "file": "app/modules/device/device.html",
-    "hash": "8b6347f10cc9873ccc81e116b8c192bf"
+    "hash": "b380a11bff96e2d83aee0b633ff734c0"
   },
   {
     "file": "app/modules/device/device.min.css",
@@ -105,7 +105,7 @@
   },
   {
     "file": "app/modules/device/month.html",
-    "hash": "867d7c8046af41fb101dcc5b9bad47d4"
+    "hash": "3e994b957869eaadee2adbb780b428b5"
   },
   {
     "file": "app/modules/device/month.min.js",
@@ -113,7 +113,7 @@
   },
   {
     "file": "app/modules/device/sensor.html",
-    "hash": "b3e07b1b51f2fb19e89fb98a5aebb979"
+    "hash": "eade8b5b450c2a0a14dccd04253846b7"
   },
   {
     "file": "app/modules/device/sensor.min.css",
@@ -133,7 +133,7 @@
   },
   {
     "file": "app/modules/fee/fee.html",
-    "hash": "c131a255fb0a29e89d0ebe75ec252892"
+    "hash": "11a27414f402a8acae7d2c37a9267497"
   },
   {
     "file": "app/modules/fee/fee.min.js",
@@ -141,7 +141,7 @@
   },
   {
     "file": "app/modules/iframe/iframe.html",
-    "hash": "f9ee42b91851b10b0b250eb7d48bd049"
+    "hash": "c3bbdf2c5c2cb7036c44713e5375718a"
   },
   {
     "file": "app/modules/iframe/iframe.min.js",
@@ -149,7 +149,7 @@
   },
   {
     "file": "app/modules/index/index.html",
-    "hash": "35af600bdde350c0ceaa44af1d5515bc"
+    "hash": "458f10560b306fb6132d489f3f51690e"
   },
   {
     "file": "app/modules/index/index.min.css",
@@ -157,7 +157,7 @@
   },
   {
     "file": "app/modules/index/index.min.js",
-    "hash": "6ba7f6f039e8f25c7bb3166fc6a46681"
+    "hash": "55209e0707ebd0c328657b3585dd3e08"
   },
   {
     "file": "app/modules/login/img/login-bg.jpg",
@@ -177,7 +177,7 @@
   },
   {
     "file": "app/modules/notification/notification.html",
-    "hash": "bd5b1dba37ba7f6967cbfb64e7df5ed6"
+    "hash": "3c04b2b0ef8ba842359f96af59633f26"
   },
   {
     "file": "app/modules/notification/notification.min.css",
@@ -189,15 +189,15 @@
   },
   {
     "file": "app/modules/recharge/channel.html",
-    "hash": "671ec98d7426bd41222133839f41d6b6"
+    "hash": "e0e975283136c779a357b21355927f88"
   },
   {
     "file": "app/modules/recharge/channel.min.js",
-    "hash": "e76f0572ea80ad65e5e7b3a652c70af6"
+    "hash": "f8abd81ed4ef60631054914209cade8e"
   },
   {
     "file": "app/modules/recharge/log.html",
-    "hash": "94db029985bc93b79d5e53ae51413ac6"
+    "hash": "42ea72a7bb6e801c40e0725af3d54674"
   },
   {
     "file": "app/modules/recharge/log.min.js",
@@ -213,23 +213,35 @@
   },
   {
     "file": "app/modules/recharge/recharge.min.js",
-    "hash": "be31979281dfe64a8e3bcf7d98eaeb90"
+    "hash": "f2c0f9c73a2f62388fb68eda2ebd1a59"
   },
   {
     "file": "app/modules/repair/detail.html",
-    "hash": "bb7a4d830482422af50bc82116f7541c"
+    "hash": "0953ccefb8b811824b894af912d5379e"
+  },
+  {
+    "file": "app/modules/repair/detail.min.css",
+    "hash": "d0256028f778beac2d5d0830f0b44250"
+  },
+  {
+    "file": "app/modules/repair/detail.min.js",
+    "hash": "09421c5701050c0c3be0a1e3ed01ae70"
+  },
+  {
+    "file": "app/modules/repair/preview.html",
+    "hash": "ec3eb7ea01ffad83138014e5132c27bf"
+  },
+  {
+    "file": "app/modules/repair/preview.min.js",
+    "hash": "18f9f109706011e92680d513e38ee84d"
   },
   {
     "file": "app/modules/repair/repair.html",
-    "hash": "a3849eec1dc2ddd57e2d65073622ca4d"
-  },
-  {
-    "file": "app/modules/repair/repair.min.css",
-    "hash": "acefb68cb26f1d863155fdbee409f68b"
+    "hash": "c57413d94ddd6e06572732ef35f02620"
   },
   {
     "file": "app/modules/repair/repair.min.js",
-    "hash": "839c1a99722e734335543a77107dea76"
+    "hash": "678471f7f5680b3cda63eaa5e98fded7"
   },
   {
     "file": "app/modules/welcome/img/1.jpg",
@@ -277,11 +289,7 @@
   },
   {
     "file": "app/modules/welcome/welcome.html",
-    "hash": "4034331f779a3b04042c630c84df5bca"
-  },
-  {
-    "file": "app/modules/welcome/welcome.min.css",
-    "hash": "1001d05198fcbf76847f81cdc7e12b37"
+    "hash": "7a88358a39dc7ea1624a6512b7164126"
   },
   {
     "file": "app/modules/welcome/welcome.min.js",
@@ -289,7 +297,7 @@
   },
   {
     "file": "app/router.min.js",
-    "hash": "1b58389fac15f4768c840fbc71530584"
+    "hash": "c64738d179aae6939c1e419d1e60e700"
   },
   {
     "file": "app/services/chcp.min.js",
@@ -297,7 +305,7 @@
   },
   {
     "file": "app/services/fundebug.min.js",
-    "hash": "ad3583ffc323186498334bd04daab4d8"
+    "hash": "fe5291f9944a2ae054818184d353fcf5"
   },
   {
     "file": "app/services/jpush.min.js",
@@ -309,7 +317,7 @@
   },
   {
     "file": "app/services/storage.min.js",
-    "hash": "f8de183960e6f0f2abf09d090161c417"
+    "hash": "49bfb4aa406369ab87c435fe01e58448"
   },
   {
     "file": "app/services/user.min.js",
@@ -329,98 +337,98 @@
   },
   {
     "file": "index.html",
-    "hash": "043c0a9aed9979ea2ac60b01c9758246"
-  },
-  {
-    "file": "lib/iconfont-icon-addon/demo_fontclass.html",
-    "hash": "914d617cdbd56bb607c31997b37ad19c"
-  },
-  {
-    "file": "lib/iconfont-icon-addon/demo_symbol.html",
-    "hash": "cb9936705ef101a5cf2ad87c22efb379"
-  },
-  {
-    "file": "lib/iconfont-icon-addon/demo_unicode.html",
-    "hash": "1c21abca9eb46b039df9aa2adca158db"
-  },
-  {
-    "file": "lib/iconfont-icon-addon/demo.css",
-    "hash": "4b4695a719f5cad95de26a9e79d0878e"
-  },
-  {
-    "file": "lib/iconfont-icon-addon/iconfont.css",
-    "hash": "73f180f8113d3d0b851370e1b624e530"
-  },
-  {
-    "file": "lib/iconfont-icon-addon/iconfont.eot",
-    "hash": "5a24d6e2efc03bbc6a1c7abf90bbf38c"
-  },
-  {
-    "file": "lib/iconfont-icon-addon/iconfont.js",
-    "hash": "9f785f06d2f6c992f81e775cc771682c"
-  },
-  {
-    "file": "lib/iconfont-icon-addon/iconfont.svg",
-    "hash": "20a486f4bee1af567f7343e5eee99bd7"
-  },
-  {
-    "file": "lib/iconfont-icon-addon/iconfont.ttf",
-    "hash": "202b8d6491a74bf7f746cd76e58e560c"
-  },
-  {
-    "file": "lib/iconfont-icon-addon/iconfont.woff",
-    "hash": "6447b7924fe7db11442a68939cb1c0b3"
-  },
-  {
-    "file": "lib/iconfont-icon-app/demo_fontclass.html",
-    "hash": "faafda9bd0ffc4f3a49463880f4cae8d"
-  },
-  {
-    "file": "lib/iconfont-icon-app/demo_symbol.html",
-    "hash": "b417112bf795cb8f5eaf24e250e9410d"
-  },
-  {
-    "file": "lib/iconfont-icon-app/demo_unicode.html",
-    "hash": "177e21eb883522fe47fa136b5696d14e"
-  },
-  {
-    "file": "lib/iconfont-icon-app/demo.css",
-    "hash": "4b4695a719f5cad95de26a9e79d0878e"
-  },
-  {
-    "file": "lib/iconfont-icon-app/iconfont.css",
-    "hash": "a8f3d6537c16bc95e611538b39c7c899"
-  },
-  {
-    "file": "lib/iconfont-icon-app/iconfont.eot",
-    "hash": "57da1ae6d22bfe8f47b8128f2c531355"
-  },
-  {
-    "file": "lib/iconfont-icon-app/iconfont.js",
-    "hash": "9d17d02e60ec84d0432948a10a5f5298"
-  },
-  {
-    "file": "lib/iconfont-icon-app/iconfont.svg",
-    "hash": "24ab88c0465cc3b087ec9fbe909481eb"
-  },
-  {
-    "file": "lib/iconfont-icon-app/iconfont.ttf",
-    "hash": "35934982e491dde39907d83f4ce0605e"
-  },
-  {
-    "file": "lib/iconfont-icon-app/iconfont.woff",
-    "hash": "210535eb6497309a300fe82629627245"
-  },
-  {
-    "file": "lib/pingpp-js-2.1.9/alipay_in_weixin/pay.htm",
-    "hash": "91f981155cc76ea86341d3517b9b9e5d"
-  },
-  {
-    "file": "lib/pingpp-js-2.1.9/pingpp.js",
-    "hash": "7ad34587f3dae919adab833fe71d05de"
+    "hash": "93867a6c2ce4808cb32bbb0c9d282803"
   },
   {
     "file": "robots.txt",
     "hash": "9152d7f1724ed8fbcd2e0c87029f193c"
+  },
+  {
+    "file": "static/iconfont-icon-addon/demo_fontclass.html",
+    "hash": "914d617cdbd56bb607c31997b37ad19c"
+  },
+  {
+    "file": "static/iconfont-icon-addon/demo_symbol.html",
+    "hash": "cb9936705ef101a5cf2ad87c22efb379"
+  },
+  {
+    "file": "static/iconfont-icon-addon/demo_unicode.html",
+    "hash": "1c21abca9eb46b039df9aa2adca158db"
+  },
+  {
+    "file": "static/iconfont-icon-addon/demo.css",
+    "hash": "4b4695a719f5cad95de26a9e79d0878e"
+  },
+  {
+    "file": "static/iconfont-icon-addon/iconfont.css",
+    "hash": "73f180f8113d3d0b851370e1b624e530"
+  },
+  {
+    "file": "static/iconfont-icon-addon/iconfont.eot",
+    "hash": "5a24d6e2efc03bbc6a1c7abf90bbf38c"
+  },
+  {
+    "file": "static/iconfont-icon-addon/iconfont.js",
+    "hash": "9f785f06d2f6c992f81e775cc771682c"
+  },
+  {
+    "file": "static/iconfont-icon-addon/iconfont.svg",
+    "hash": "20a486f4bee1af567f7343e5eee99bd7"
+  },
+  {
+    "file": "static/iconfont-icon-addon/iconfont.ttf",
+    "hash": "202b8d6491a74bf7f746cd76e58e560c"
+  },
+  {
+    "file": "static/iconfont-icon-addon/iconfont.woff",
+    "hash": "6447b7924fe7db11442a68939cb1c0b3"
+  },
+  {
+    "file": "static/iconfont-icon-app/demo_fontclass.html",
+    "hash": "28151d6bf052870a25502080efefe5c0"
+  },
+  {
+    "file": "static/iconfont-icon-app/demo_symbol.html",
+    "hash": "f0a1338ebb7c04cdf36dda162ea77e0c"
+  },
+  {
+    "file": "static/iconfont-icon-app/demo_unicode.html",
+    "hash": "9b6761e5f64a5379f6f1929c031c4ca6"
+  },
+  {
+    "file": "static/iconfont-icon-app/demo.css",
+    "hash": "4b4695a719f5cad95de26a9e79d0878e"
+  },
+  {
+    "file": "static/iconfont-icon-app/iconfont.css",
+    "hash": "1837d2ddf22451739d4c53315ffeebfa"
+  },
+  {
+    "file": "static/iconfont-icon-app/iconfont.eot",
+    "hash": "6ad2689d4bd5d1945d9a25a3023895d1"
+  },
+  {
+    "file": "static/iconfont-icon-app/iconfont.js",
+    "hash": "007ef5d76b25ca4c808794e2989ba71e"
+  },
+  {
+    "file": "static/iconfont-icon-app/iconfont.svg",
+    "hash": "20459db56066c29a632d9c199158a9b3"
+  },
+  {
+    "file": "static/iconfont-icon-app/iconfont.ttf",
+    "hash": "3edd31f2dcd536dc7c829b4ca56e6a47"
+  },
+  {
+    "file": "static/iconfont-icon-app/iconfont.woff",
+    "hash": "ecfaf54ed5d9e200f1e38f2f31924d82"
+  },
+  {
+    "file": "static/pingpp-js-2.1.13/alipay_in_weixin/pay.htm",
+    "hash": "91f981155cc76ea86341d3517b9b9e5d"
+  },
+  {
+    "file": "static/pingpp-js-2.1.13/pingpp.js",
+    "hash": "e1986fc515f45e05d3294f3b48fbfe87"
   }
 ]
