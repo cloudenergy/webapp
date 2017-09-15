@@ -17,7 +17,7 @@
   },
   {
     "file": "app/bundle-app.js",
-    "hash": "92a45016348cd96a598ebed413315a76"
+    "hash": "f921499906a08d524fdd2f180a5e64ae"
   },
   {
     "file": "app/bundle-libs.js",
@@ -317,7 +317,7 @@
   },
   {
     "file": "app/services/storage.min.js",
-    "hash": "63fccdc4f8c8f9cab0131e007c9a7f64"
+    "hash": "49bfb4aa406369ab87c435fe01e58448"
   },
   {
     "file": "app/services/user.min.js",
@@ -337,7 +337,7 @@
   },
   {
     "file": "index.html",
-    "hash": "4424f8fd667ed6a699f71a0e3ee261e0"
+    "hash": "5542aad6fd7bbce6ce0569091fb75c58"
   },
   {
     "file": "robots.txt",
