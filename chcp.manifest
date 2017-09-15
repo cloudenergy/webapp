@@ -17,7 +17,7 @@
   },
   {
     "file": "app/bundle-app.js",
-    "hash": "f921499906a08d524fdd2f180a5e64ae"
+    "hash": "f7ae63b9a80ac14f16ab9799aeefc694"
   },
   {
     "file": "app/bundle-libs.js",
@@ -305,7 +305,7 @@
   },
   {
     "file": "app/services/fundebug.min.js",
-    "hash": "b10dfda47c44d00a3a7e56fa17300dfa"
+    "hash": "fe5291f9944a2ae054818184d353fcf5"
   },
   {
     "file": "app/services/jpush.min.js",
@@ -337,7 +337,7 @@
   },
   {
     "file": "index.html",
-    "hash": "5542aad6fd7bbce6ce0569091fb75c58"
+    "hash": "86c5691a324ba597889e7d941c618a40"
   },
   {
     "file": "robots.txt",
