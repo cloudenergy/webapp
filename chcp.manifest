@@ -17,7 +17,7 @@
   },
   {
     "file": "app/bundle-app.js",
-    "hash": "f7ae63b9a80ac14f16ab9799aeefc694"
+    "hash": "5f19455d6d8718a16eae91b983bfec4e"
   },
   {
     "file": "app/bundle-libs.js",
@@ -173,7 +173,7 @@
   },
   {
     "file": "app/modules/login/login.min.js",
-    "hash": "74e3ef6d5b5b3f485a18da2c4132e2f0"
+    "hash": "1eebf24edebe6f2331b3c469a7c0d8b7"
   },
   {
     "file": "app/modules/notification/notification.html",
@@ -297,7 +297,7 @@
   },
   {
     "file": "app/router.min.js",
-    "hash": "c64738d179aae6939c1e419d1e60e700"
+    "hash": "b14f598b7ffc83d93a7648c33e5a6005"
   },
   {
     "file": "app/services/chcp.min.js",
@@ -337,7 +337,7 @@
   },
   {
     "file": "index.html",
-    "hash": "86c5691a324ba597889e7d941c618a40"
+    "hash": "f404ef58511cb069f436c812056dc71d"
   },
   {
     "file": "robots.txt",
