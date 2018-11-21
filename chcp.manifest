@@ -1,7 +1,7 @@
 [
   {
     "file": "app/api.min.js",
-    "hash": "42ea80371db5a749991f7cc321982069"
+    "hash": "0c2ac0270cf5c1bcd56d19844b2af5b1"
   },
   {
     "file": "app/app.min.css",
@@ -9,15 +9,15 @@
   },
   {
     "file": "app/app.min.js",
-    "hash": "fde2a5df65216b07d4fd3c22d7d31cce"
+    "hash": "86c237fb7b0d5ab7f6c117d32ddf996c"
   },
   {
     "file": "app/bundle-app.css",
-    "hash": "bab26b9590e6a25a19f95fe8322cdf38"
+    "hash": "f8797ed35bc5d35ced2947354d654b64"
   },
   {
     "file": "app/bundle-app.js",
-    "hash": "98e8e94783eed739eaa3172b2a0dc1d8"
+    "hash": "e98806270cc76c59a6cabf2a0d58ed17"
   },
   {
     "file": "app/bundle-libs.js",
@@ -33,11 +33,11 @@
   },
   {
     "file": "app/common/filter.min.js",
-    "hash": "def12623caf056002ad3f13ff17d4c7a"
+    "hash": "865f7dd6ab02ec3d92ee9f1f71172cd4"
   },
   {
     "file": "app/components/highcharts.min.js",
-    "hash": "07c92aa56fc74d4d58154b1ba03f3a53"
+    "hash": "e0109e803a1b7d71ae568dbfa66b1cad"
   },
   {
     "file": "app/fonts/ionicons.eot",
@@ -57,11 +57,11 @@
   },
   {
     "file": "app/ionic.min.css",
-    "hash": "0b72dae20f07ffc29ae7273c88ce2dd0"
+    "hash": "353b5fbc941833cdaee9e023a135c9fe"
   },
   {
     "file": "app/modules/account/account.html",
-    "hash": "1cb2fadb54b617052d8a7ca05d9b5489"
+    "hash": "4137fe8fb7a8f660f1053c79a8f20b52"
   },
   {
     "file": "app/modules/account/account.min.css",
@@ -69,7 +69,7 @@
   },
   {
     "file": "app/modules/account/account.min.js",
-    "hash": "32c2595a0c1661eda3f0d476e614eaf6"
+    "hash": "24f00d279bef02888da6299ffa0f9b2b"
   },
   {
     "file": "app/modules/account/edit.html",
@@ -77,11 +77,11 @@
   },
   {
     "file": "app/modules/account/password.html",
-    "hash": "ccb1b2c59906add1e06425d72753222e"
+    "hash": "e4217039859980981f916295e6c2ea3d"
   },
   {
     "file": "app/modules/bind/bind.html",
-    "hash": "e9ea47046c4cb00a9ec3b7812bd0108f"
+    "hash": "6524068a4c8bae59e8c3d56c64290987"
   },
   {
     "file": "app/modules/bind/bind.min.css",
@@ -89,11 +89,11 @@
   },
   {
     "file": "app/modules/bind/bind.min.js",
-    "hash": "b9cb73b599c2f21dde9b43346d25e480"
+    "hash": "0915b09d32effee66e8755c732687528"
   },
   {
     "file": "app/modules/device/device.html",
-    "hash": "b380a11bff96e2d83aee0b633ff734c0"
+    "hash": "0284318dff89f82199139de734217fe3"
   },
   {
     "file": "app/modules/device/device.min.css",
@@ -101,11 +101,11 @@
   },
   {
     "file": "app/modules/device/device.min.js",
-    "hash": "0d721e975d4af8752cf8baacaa2e37af"
+    "hash": "3e61748e9d241bfc86ac3bf778f2c6d5"
   },
   {
     "file": "app/modules/device/month.html",
-    "hash": "3e994b957869eaadee2adbb780b428b5"
+    "hash": "7d8b2c8c2c170b784d8c0f2c01d6a89d"
   },
   {
     "file": "app/modules/device/month.min.js",
@@ -113,7 +113,7 @@
   },
   {
     "file": "app/modules/device/sensor.html",
-    "hash": "eade8b5b450c2a0a14dccd04253846b7"
+    "hash": "7d6d1da0c6b8272cb6ba31e2352cd516"
   },
   {
     "file": "app/modules/device/sensor.min.css",
@@ -125,7 +125,7 @@
   },
   {
     "file": "app/modules/error/error.html",
-    "hash": "9a31e4f0f88929d14ad4e756f8566a4c"
+    "hash": "0196350b0768d81814339a7754be7a36"
   },
   {
     "file": "app/modules/error/error.min.js",
@@ -137,11 +137,11 @@
   },
   {
     "file": "app/modules/fee/fee.min.js",
-    "hash": "c1f394dd2d206992693777e6ded871cd"
+    "hash": "386c9ce4ba189229fbb5139022307c54"
   },
   {
     "file": "app/modules/iframe/iframe.html",
-    "hash": "c3bbdf2c5c2cb7036c44713e5375718a"
+    "hash": "ea2f8e37f2b9786158e74c5c9ae84f09"
   },
   {
     "file": "app/modules/iframe/iframe.min.js",
@@ -149,7 +149,7 @@
   },
   {
     "file": "app/modules/index/index.html",
-    "hash": "458f10560b306fb6132d489f3f51690e"
+    "hash": "a540e789d34f1672a7a575982fae9442"
   },
   {
     "file": "app/modules/index/index.min.css",
@@ -157,7 +157,7 @@
   },
   {
     "file": "app/modules/index/index.min.js",
-    "hash": "55209e0707ebd0c328657b3585dd3e08"
+    "hash": "7fd2aa91791f54001f99052967b98b25"
   },
   {
     "file": "app/modules/login/img/login-bg.jpg",
@@ -165,7 +165,7 @@
   },
   {
     "file": "app/modules/login/login.html",
-    "hash": "e866cdbbca59ce94a1b033359d5b5d05"
+    "hash": "53b4e1486660deb95078e279320b961c"
   },
   {
     "file": "app/modules/login/login.min.css",
@@ -173,7 +173,7 @@
   },
   {
     "file": "app/modules/login/login.min.js",
-    "hash": "1eebf24edebe6f2331b3c469a7c0d8b7"
+    "hash": "d9d0eeaaec752721134744e6db1af655"
   },
   {
     "file": "app/modules/notification/notification.html",
@@ -185,27 +185,27 @@
   },
   {
     "file": "app/modules/notification/notification.min.js",
-    "hash": "4ef61f5beafdebc1c2dc68b3a2187f44"
+    "hash": "6720a7334b1ebca548fdd3ab0325bb86"
   },
   {
     "file": "app/modules/recharge/channel.html",
-    "hash": "e0e975283136c779a357b21355927f88"
+    "hash": "aeb0c50f9d88513f1ea322e8d9f7a8d8"
   },
   {
     "file": "app/modules/recharge/channel.min.js",
-    "hash": "ba443b6dd0c545a0dfce76344aff389b"
+    "hash": "b8845daeb74c392c4f036c20247ee21d"
   },
   {
     "file": "app/modules/recharge/log.html",
-    "hash": "42ea72a7bb6e801c40e0725af3d54674"
+    "hash": "630939f39f45d1a28e29b31e1f7b60ad"
   },
   {
     "file": "app/modules/recharge/log.min.js",
-    "hash": "cc85ee1abc471ecd8a935eb8a1a73c44"
+    "hash": "90e124ad1bd2130bb848c2747a3f7303"
   },
   {
     "file": "app/modules/recharge/recharge.html",
-    "hash": "69cd50cbdc85b0263d083051718e7873"
+    "hash": "2a842a764a040b35e6f104d903ffd2d4"
   },
   {
     "file": "app/modules/recharge/recharge.min.css",
@@ -213,11 +213,11 @@
   },
   {
     "file": "app/modules/recharge/recharge.min.js",
-    "hash": "f2c0f9c73a2f62388fb68eda2ebd1a59"
+    "hash": "94a16ccf92ec94d05b8784aae40bcf30"
   },
   {
     "file": "app/modules/repair/detail.html",
-    "hash": "0953ccefb8b811824b894af912d5379e"
+    "hash": "39a65bcdb9eb13ee8dcfbede9e9ccee9"
   },
   {
     "file": "app/modules/repair/detail.min.css",
@@ -225,15 +225,15 @@
   },
   {
     "file": "app/modules/repair/detail.min.js",
-    "hash": "09421c5701050c0c3be0a1e3ed01ae70"
+    "hash": "d6c8c255ae1ecb7e399462178e8235e0"
   },
   {
     "file": "app/modules/repair/preview.html",
-    "hash": "ec3eb7ea01ffad83138014e5132c27bf"
+    "hash": "130c82e5647b94861b6a213fcb2d07ec"
   },
   {
     "file": "app/modules/repair/preview.min.js",
-    "hash": "18f9f109706011e92680d513e38ee84d"
+    "hash": "fac6b127f8237896cdb14d96c10d8cc8"
   },
   {
     "file": "app/modules/repair/repair.html",
@@ -241,7 +241,7 @@
   },
   {
     "file": "app/modules/repair/repair.min.js",
-    "hash": "678471f7f5680b3cda63eaa5e98fded7"
+    "hash": "9a520e5111d0f2fd9fd6ca1103393af4"
   },
   {
     "file": "app/modules/welcome/img/1.jpg",
@@ -289,7 +289,7 @@
   },
   {
     "file": "app/modules/welcome/welcome.html",
-    "hash": "7a88358a39dc7ea1624a6512b7164126"
+    "hash": "8f8228e42015071500aea3f821f61531"
   },
   {
     "file": "app/modules/welcome/welcome.min.js",
@@ -297,31 +297,31 @@
   },
   {
     "file": "app/router.min.js",
-    "hash": "fe7ed48e3eb7e8b61818b4dba4a16258"
+    "hash": "c1987991ed62d703740b910e81250dd5"
   },
   {
     "file": "app/services/chcp.min.js",
-    "hash": "35e9b3bcd278d9b96e947a720f8920ab"
+    "hash": "e76f67999437d4935020394137c84501"
   },
   {
     "file": "app/services/fundebug.min.js",
-    "hash": "b5ce37c8c181b0aa65c21494a7be19c0"
+    "hash": "05b0ab1ddcef5345aa49f73924e2a071"
   },
   {
     "file": "app/services/jpush.min.js",
-    "hash": "edbfff9be43d14364cc0aae2675db281"
+    "hash": "1da92d075deb87a76e0b6bd50715998c"
   },
   {
     "file": "app/services/message.min.js",
-    "hash": "aec5f261026184b6a11b4cc732c15c92"
+    "hash": "2ae1b9c74ce1ec6e4ccf5e55527b7782"
   },
   {
     "file": "app/services/storage.min.js",
-    "hash": "49bfb4aa406369ab87c435fe01e58448"
+    "hash": "094d8d6672ee3d733a858b68546d0f59"
   },
   {
     "file": "app/services/user.min.js",
-    "hash": "0a70211cd5a2fccf06712881d1222ae9"
+    "hash": "982ddee13647a825f7511addc704f663"
   },
   {
     "file": "app/tabs.html",
@@ -337,7 +337,7 @@
   },
   {
     "file": "index.html",
-    "hash": "e59f066cdaffa8951e027907e46a46ad"
+    "hash": "d9257c00d15a4d99a41dc0501efbd711"
   },
   {
     "file": "robots.txt",
